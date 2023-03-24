@@ -9,15 +9,16 @@ import time
 from tqdm import tqdm
 
 ###### GLOBAL CONFIG ######
-DEBUG = True
-output_file = "domain_ns_info.txt"
-resolver_in_use = ["9.9.9.9"]
+DEBUG = False
+resolver_in_use = ["223.5.5.5", "9.9.9.9"]
 
 ###### INIT ######
 if DEBUG:
     domain_file = "topdomain10k.txt"
 else:
-    domain_file = sys.argv[1]
+    domain_file = "../data/"+sys.argv[1]+".list"
+    
+output_file = "../data/"+domain_file+".domain_ns_info.txt"
 
 # store (domain, ns) mappings. domain_ns[domain] = {ns1, ns2, ...}
 domain_ns = {}

@@ -1,0 +1,5603 @@
+{
+    "nodes": [
+        {
+            "id": "qq.com",
+            "indegree": 8,
+            "color": "green",
+            "requestCount": 41316028713,
+            "clientIpCount": 54725674,
+            "subdomainCount": 963565
+        },
+        {
+            "id": "com",
+            "indegree": 186,
+            "color": "green"
+        },
+        {
+            "id": "gtld-servers.net",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "nstld.com",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "net",
+            "indegree": 41,
+            "color": "green"
+        },
+        {
+            "id": ".",
+            "indegree": 17,
+            "color": "green"
+        },
+        {
+            "id": "baidu.com",
+            "indegree": 3,
+            "color": "green",
+            "requestCount": 48779959458,
+            "clientIpCount": 47647608,
+            "subdomainCount": 293487
+        },
+        {
+            "id": "alidns.com",
+            "indegree": 34,
+            "color": "green"
+        },
+        {
+            "id": "douyincdn.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 107534221175,
+            "clientIpCount": 41771922,
+            "subdomainCount": 2396
+        },
+        {
+            "id": "aliyun.com",
+            "indegree": 5,
+            "color": "green",
+            "requestCount": 2179112960,
+            "clientIpCount": 20493844,
+            "subdomainCount": 10753
+        },
+        {
+            "id": "dnsv5.com",
+            "indegree": 51,
+            "color": "green"
+        },
+        {
+            "id": "yximgs.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 86465509042,
+            "clientIpCount": 39976693,
+            "subdomainCount": 1347
+        },
+        {
+            "id": "dnsv5.net",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "amap.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3626678715,
+            "clientIpCount": 40462117,
+            "subdomainCount": 1292
+        },
+        {
+            "id": "taobao.com",
+            "indegree": 4,
+            "color": "green",
+            "requestCount": 54113346121,
+            "clientIpCount": 39678368,
+            "subdomainCount": 974538
+        },
+        {
+            "id": "vivo.com.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 9923847815,
+            "clientIpCount": 40816736,
+            "subdomainCount": 3122
+        },
+        {
+            "id": "com.cn",
+            "indegree": 3,
+            "color": "green"
+        },
+        {
+            "id": "dns.cn",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "cn",
+            "indegree": 25,
+            "color": "green"
+        },
+        {
+            "id": "cernet.net",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "live-voip.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 25730436812,
+            "clientIpCount": 32933483,
+            "subdomainCount": 316
+        },
+        {
+            "id": "video-voip.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 25698099668,
+            "clientIpCount": 32946989,
+            "subdomainCount": 295
+        },
+        {
+            "id": "google.com",
+            "indegree": 5,
+            "color": "green",
+            "requestCount": 2764690321,
+            "clientIpCount": 35432423,
+            "subdomainCount": 97211
+        },
+        {
+            "id": "gifshow.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 4489142872,
+            "clientIpCount": 34306490,
+            "subdomainCount": 8753
+        },
+        {
+            "id": "snssdk.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3144071261,
+            "clientIpCount": 32852057,
+            "subdomainCount": 1030
+        },
+        {
+            "id": "pinduoduo.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2499298588,
+            "clientIpCount": 34396004,
+            "subdomainCount": 1075
+        },
+        {
+            "id": "kwaicdn.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 28678571455,
+            "clientIpCount": 32317449,
+            "subdomainCount": 198
+        },
+        {
+            "id": "bytedns.com",
+            "indegree": 5,
+            "color": "green"
+        },
+        {
+            "id": "douyinliving.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 13827907153,
+            "clientIpCount": 31903859,
+            "subdomainCount": 200
+        },
+        {
+            "id": "heytapmobi.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2569663334,
+            "clientIpCount": 33778735,
+            "subdomainCount": 1370
+        },
+        {
+            "id": "hichina.com",
+            "indegree": 8,
+            "color": "green"
+        },
+        {
+            "id": "kwimgs.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 29331386721,
+            "clientIpCount": 33361850,
+            "subdomainCount": 865
+        },
+        {
+            "id": "ksapisrv.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3262349103,
+            "clientIpCount": 32641276,
+            "subdomainCount": 332
+        },
+        {
+            "id": "sogou.com",
+            "indegree": 1,
+            "color": "green",
+            "requestCount": 2902510822,
+            "clientIpCount": 32519329,
+            "subdomainCount": 29895
+        },
+        {
+            "id": "alibabadns.com",
+            "indegree": 6,
+            "color": "green",
+            "requestCount": 1830262490,
+            "clientIpCount": 12428822,
+            "subdomainCount": 25992
+        },
+        {
+            "id": "alicdn.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3168180951,
+            "clientIpCount": 32097355,
+            "subdomainCount": 86526
+        },
+        {
+            "id": "douyinvod.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 5035070886,
+            "clientIpCount": 30976311,
+            "subdomainCount": 874
+        },
+        {
+            "id": "qpic.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1891174934,
+            "clientIpCount": 31822359,
+            "subdomainCount": 737
+        },
+        {
+            "id": "inkuai.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 9093173612,
+            "clientIpCount": 30279595,
+            "subdomainCount": 292
+        },
+        {
+            "id": "dnspod.net",
+            "indegree": 4,
+            "color": "green"
+        },
+        {
+            "id": "oskwai.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 4787024955,
+            "clientIpCount": 30094342,
+            "subdomainCount": 19
+        },
+        {
+            "id": "dnsv2.com",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "dnsv2.net",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "zijieapi.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1833939030,
+            "clientIpCount": 30339003,
+            "subdomainCount": 416
+        },
+        {
+            "id": "amemv.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2490158662,
+            "clientIpCount": 29888287,
+            "subdomainCount": 837
+        },
+        {
+            "id": "kuaishou.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1414298107,
+            "clientIpCount": 31109380,
+            "subdomainCount": 13911
+        },
+        {
+            "id": "aliyuncs.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 4167403368,
+            "clientIpCount": 30478936,
+            "subdomainCount": 335256
+        },
+        {
+            "id": "dnsv4.com",
+            "indegree": 5,
+            "color": "green"
+        },
+        {
+            "id": "ecukwai.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2496473505,
+            "clientIpCount": 29111831,
+            "subdomainCount": 37
+        },
+        {
+            "id": "dnsv4.net",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "kspkg.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 4024892212,
+            "clientIpCount": 28618541,
+            "subdomainCount": 66
+        },
+        {
+            "id": "allawntech.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1449324952,
+            "clientIpCount": 29647989,
+            "subdomainCount": 197
+        },
+        {
+            "id": "xxpkg.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2435250725,
+            "clientIpCount": 29559602,
+            "subdomainCount": 60
+        },
+        {
+            "id": "ixigua.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 5229875088,
+            "clientIpCount": 27456580,
+            "subdomainCount": 4095
+        },
+        {
+            "id": "google.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1027064740,
+            "clientIpCount": 29054797,
+            "subdomainCount": 797
+        },
+        {
+            "id": "kuaishouzt.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 795455387,
+            "clientIpCount": 28035408,
+            "subdomainCount": 30
+        },
+        {
+            "id": "pstatp.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 7612882632,
+            "clientIpCount": 27321858,
+            "subdomainCount": 946
+        },
+        {
+            "id": "googleapis.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 754038769,
+            "clientIpCount": 28690878,
+            "subdomainCount": 29
+        },
+        {
+            "id": "miui.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2750562405,
+            "clientIpCount": 27839826,
+            "subdomainCount": 1852
+        },
+        {
+            "id": "umeng.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 912638385,
+            "clientIpCount": 27418390,
+            "subdomainCount": 761
+        },
+        {
+            "id": "heytapdownload.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 901178319,
+            "clientIpCount": 27105283,
+            "subdomainCount": 271
+        },
+        {
+            "id": "jdcache.com",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "jd.com",
+            "indegree": 1,
+            "color": "green",
+            "requestCount": 50301874405,
+            "clientIpCount": 27030896,
+            "subdomainCount": 31291
+        },
+        {
+            "id": "oppomobile.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2793868809,
+            "clientIpCount": 28631658,
+            "subdomainCount": 987
+        },
+        {
+            "id": "xiaomi.net",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 607379444,
+            "clientIpCount": 25813944,
+            "subdomainCount": 791
+        },
+        {
+            "id": "xiaomi.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3908429683,
+            "clientIpCount": 26822901,
+            "subdomainCount": 7008
+        },
+        {
+            "id": "pddpic.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 717360788,
+            "clientIpCount": 24170703,
+            "subdomainCount": 201
+        },
+        {
+            "id": "kscdns.com",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "ksyun.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1135834161,
+            "clientIpCount": 23236470,
+            "subdomainCount": 13217
+        },
+        {
+            "id": "ctobsnssdk.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 487932617,
+            "clientIpCount": 22648507,
+            "subdomainCount": 19
+        },
+        {
+            "id": "douyinpic.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 723735030,
+            "clientIpCount": 22751214,
+            "subdomainCount": 124
+        },
+        {
+            "id": "360safe.com",
+            "indegree": 1,
+            "color": "green",
+            "requestCount": 434246186,
+            "clientIpCount": 6744481,
+            "subdomainCount": 23487
+        },
+        {
+            "id": "360.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 8721720058,
+            "clientIpCount": 22326005,
+            "subdomainCount": 12310
+        },
+        {
+            "id": "kwaizt.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 416185312,
+            "clientIpCount": 22066996,
+            "subdomainCount": 17
+        },
+        {
+            "id": "coloros.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3186879590,
+            "clientIpCount": 25919769,
+            "subdomainCount": 548
+        },
+        {
+            "id": "awsdns-13.com",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "heytapdl.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 139301878,
+            "clientIpCount": 23054079,
+            "subdomainCount": 118
+        },
+        {
+            "id": "awsdns-57.org",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "org",
+            "indegree": 10,
+            "color": "green"
+        },
+        {
+            "id": "org.afilias-nst.info",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "org.afilias-nst.org",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "afilias-nst.org",
+            "indegree": 4,
+            "color": "green"
+        },
+        {
+            "id": "dig.afilias-nst.info",
+            "indegree": 3,
+            "color": "green"
+        },
+        {
+            "id": "afilias-nst.info",
+            "indegree": 5,
+            "color": "green"
+        },
+        {
+            "id": "info",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "info.afilias-nst.org",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "info.afilias-nst.info",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "awsdns-16.co.uk",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "co.uk",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "nic.uk",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "uk",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "awsdns-13.net",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "chinanetcenter.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1085812808,
+            "clientIpCount": 21191910,
+            "subdomainCount": 279
+        },
+        {
+            "id": "toutiao.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 941894170,
+            "clientIpCount": 21620522,
+            "subdomainCount": 715
+        },
+        {
+            "id": "volcsiriusbd.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 638627626,
+            "clientIpCount": 21082631,
+            "subdomainCount": 11176
+        },
+        {
+            "id": "tencent.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 984174296,
+            "clientIpCount": 22076647,
+            "subdomainCount": 39841
+        },
+        {
+            "id": "bdstatic.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1536114204,
+            "clientIpCount": 20598985,
+            "subdomainCount": 581
+        },
+        {
+            "id": "bytedance.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 5773296246,
+            "clientIpCount": 28018718,
+            "subdomainCount": 27965
+        },
+        {
+            "id": "sina.com.cn",
+            "indegree": 3,
+            "color": "green",
+            "requestCount": 50033588623,
+            "clientIpCount": 20982739,
+            "subdomainCount": 11869
+        },
+        {
+            "id": "sina.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 451916730,
+            "clientIpCount": 20819557,
+            "subdomainCount": 1709
+        },
+        {
+            "id": "ecombdapi.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 390211085,
+            "clientIpCount": 19839690,
+            "subdomainCount": 89
+        },
+        {
+            "id": "alipay.com",
+            "indegree": 1,
+            "color": "green",
+            "requestCount": 613110384,
+            "clientIpCount": 20002038,
+            "subdomainCount": 6097
+        },
+        {
+            "id": "pglstatp-toutiao.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 574491318,
+            "clientIpCount": 19860819,
+            "subdomainCount": 72
+        },
+        {
+            "id": "nease.net",
+            "indegree": 3,
+            "color": "green"
+        },
+        {
+            "id": "163.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 4659477263,
+            "clientIpCount": 20094372,
+            "subdomainCount": 33787
+        },
+        {
+            "id": "166.com",
+            "indegree": 3,
+            "color": "green"
+        },
+        {
+            "id": "baidubce.com",
+            "indegree": 1,
+            "color": "green",
+            "requestCount": 67335666,
+            "clientIpCount": 2659709,
+            "subdomainCount": 894
+        },
+        {
+            "id": "bcebos.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 810463204,
+            "clientIpCount": 19443202,
+            "subdomainCount": 46161
+        },
+        {
+            "id": "gtimg.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 565767336,
+            "clientIpCount": 19545774,
+            "subdomainCount": 349
+        },
+        {
+            "id": "douyinstatic.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 419671094,
+            "clientIpCount": 18629847,
+            "subdomainCount": 56
+        },
+        {
+            "id": "uc.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 481867795,
+            "clientIpCount": 20060438,
+            "subdomainCount": 2135
+        },
+        {
+            "id": "heytapimage.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 305873405,
+            "clientIpCount": 19014908,
+            "subdomainCount": 178
+        },
+        {
+            "id": "sohu.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3689483749,
+            "clientIpCount": 19054381,
+            "subdomainCount": 3993157
+        },
+        {
+            "id": "bdydns.cn",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "bcelive.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 632316712,
+            "clientIpCount": 17683984,
+            "subdomainCount": 4716
+        },
+        {
+            "id": "kuiniuca.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1200505211,
+            "clientIpCount": 17595199,
+            "subdomainCount": 166
+        },
+        {
+            "id": "huoshanlive.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 867980141,
+            "clientIpCount": 17109919,
+            "subdomainCount": 218
+        },
+        {
+            "id": "youku.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 976629867,
+            "clientIpCount": 18891766,
+            "subdomainCount": 8418
+        },
+        {
+            "id": "kwaixiaodian.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 701889793,
+            "clientIpCount": 21942109,
+            "subdomainCount": 239
+        },
+        {
+            "id": "adukwai.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 216302235,
+            "clientIpCount": 17460435,
+            "subdomainCount": 14
+        },
+        {
+            "id": "mi.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3437326569,
+            "clientIpCount": 17726065,
+            "subdomainCount": 22268
+        },
+        {
+            "id": "huaweicloud-dns.cn",
+            "indegree": 10,
+            "color": "green"
+        },
+        {
+            "id": "hicloud.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 52320997538,
+            "clientIpCount": 29298244,
+            "subdomainCount": 1369
+        },
+        {
+            "id": "hwclouds-dns.net",
+            "indegree": 5,
+            "color": "green"
+        },
+        {
+            "id": "hwclouds-dns.com",
+            "indegree": 5,
+            "color": "green"
+        },
+        {
+            "id": "ihuoshanlive.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 858582081,
+            "clientIpCount": 16161682,
+            "subdomainCount": 35
+        },
+        {
+            "id": "iqiyi.com",
+            "indegree": 2,
+            "color": "green",
+            "requestCount": 2838681189,
+            "clientIpCount": 19486093,
+            "subdomainCount": 7626
+        },
+        {
+            "id": "umengcloud.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 137387330,
+            "clientIpCount": 17027517,
+            "subdomainCount": 59
+        },
+        {
+            "id": "miaozhen.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 178022303,
+            "clientIpCount": 18646601,
+            "subdomainCount": 625
+        },
+        {
+            "id": "gdtimg.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 245883211,
+            "clientIpCount": 16946498,
+            "subdomainCount": 252
+        },
+        {
+            "id": "byteimg.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 327830100,
+            "clientIpCount": 16803357,
+            "subdomainCount": 1794
+        },
+        {
+            "id": "aliapp.org",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 245618782,
+            "clientIpCount": 16734122,
+            "subdomainCount": 42
+        },
+        {
+            "id": "huaweicloud-dns.com",
+            "indegree": 9,
+            "color": "green"
+        },
+        {
+            "id": "cdnhwc2.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 676314828,
+            "clientIpCount": 18168235,
+            "subdomainCount": 1055
+        },
+        {
+            "id": "ndcpp.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1401264215,
+            "clientIpCount": 17463997,
+            "subdomainCount": 31
+        },
+        {
+            "id": "ns.apple.com",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "apple.com",
+            "indegree": 1,
+            "color": "green",
+            "requestCount": 8072409080,
+            "clientIpCount": 17458146,
+            "subdomainCount": 44472
+        },
+        {
+            "id": "etoote.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 12042154997,
+            "clientIpCount": 30432272,
+            "subdomainCount": 287
+        },
+        {
+            "id": "avlyun.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 109356969,
+            "clientIpCount": 16744362,
+            "subdomainCount": 241
+        },
+        {
+            "id": "gtimg.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 321448798,
+            "clientIpCount": 16609971,
+            "subdomainCount": 671
+        },
+        {
+            "id": "idouyinvod.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 487787198,
+            "clientIpCount": 15663740,
+            "subdomainCount": 1706934
+        },
+        {
+            "id": "wwstat.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 116466036,
+            "clientIpCount": 16639773,
+            "subdomainCount": 7
+        },
+        {
+            "id": "dbankcdn.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 743287225,
+            "clientIpCount": 15343655,
+            "subdomainCount": 426
+        },
+        {
+            "id": "huaweicloud-dns.org",
+            "indegree": 9,
+            "color": "green"
+        },
+        {
+            "id": "cdntips.net",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 320503980,
+            "clientIpCount": 15847255,
+            "subdomainCount": 35531
+        },
+        {
+            "id": "qlogo.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1674011148,
+            "clientIpCount": 25759819,
+            "subdomainCount": 162
+        },
+        {
+            "id": "httpdns.pro",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 340847888,
+            "clientIpCount": 15993167,
+            "subdomainCount": 10
+        },
+        {
+            "id": "pro",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "pro.afilias-nst.org",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "pro.afilias-nst.info",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "pangolin-sdk-toutiao-b.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 338237557,
+            "clientIpCount": 15391401,
+            "subdomainCount": 15
+        },
+        {
+            "id": "pa18.com",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "pingan.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 125647438,
+            "clientIpCount": 16577961,
+            "subdomainCount": 7225
+        },
+        {
+            "id": "meituan.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1108259560,
+            "clientIpCount": 15628720,
+            "subdomainCount": 44913
+        },
+        {
+            "id": "dbankcloud.eu",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 221318774,
+            "clientIpCount": 15540373,
+            "subdomainCount": 8
+        },
+        {
+            "id": "eu",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "dns.eu",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "udel.edu",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "ntp.org",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 50687824030,
+            "clientIpCount": 37867021,
+            "subdomainCount": 10926
+        },
+        {
+            "id": "nnn.upenn.edu",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "upenn.edu",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "edu",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "edu-servers.net",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "p20.dynect.net",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "dynect.net",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "dynamicnetworkservices.net",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "everett.org",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "iecc.com",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "sf-bay.org",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "googledomains.com",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "pch.net",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "tencent-cloud.net",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 4628664375,
+            "clientIpCount": 38395701,
+            "subdomainCount": 15847
+        },
+        {
+            "id": "getui.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 420478575,
+            "clientIpCount": 16082493,
+            "subdomainCount": 528
+        },
+        {
+            "id": "meituan.net",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 968694870,
+            "clientIpCount": 14949355,
+            "subdomainCount": 429
+        },
+        {
+            "id": "bytegecko.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 152709825,
+            "clientIpCount": 14974608,
+            "subdomainCount": 128
+        },
+        {
+            "id": "id6.me",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 119531360,
+            "clientIpCount": 15693540,
+            "subdomainCount": 114
+        },
+        {
+            "id": "me",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "nic.me",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "myqcloud.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2073055822,
+            "clientIpCount": 26056927,
+            "subdomainCount": 112684
+        },
+        {
+            "id": "baidustatic.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 114595282,
+            "clientIpCount": 14471091,
+            "subdomainCount": 23
+        },
+        {
+            "id": "ssrcdn.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 100204186,
+            "clientIpCount": 14324279,
+            "subdomainCount": 81
+        },
+        {
+            "id": "dingtalk.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 744157011,
+            "clientIpCount": 15168209,
+            "subdomainCount": 1377
+        },
+        {
+            "id": "kskwai.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 91126462,
+            "clientIpCount": 14169676,
+            "subdomainCount": 30
+        },
+        {
+            "id": "bdimg.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 259674802,
+            "clientIpCount": 14083645,
+            "subdomainCount": 463
+        },
+        {
+            "id": "dnsv3.com",
+            "indegree": 3,
+            "color": "green"
+        },
+        {
+            "id": "wostore.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 122226633,
+            "clientIpCount": 15361870,
+            "subdomainCount": 196
+        },
+        {
+            "id": "dnsv3.net",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "qcloud.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 382587603,
+            "clientIpCount": 14929831,
+            "subdomainCount": 1201
+        },
+        {
+            "id": "toutiaoapi.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 452747888,
+            "clientIpCount": 13763862,
+            "subdomainCount": 160
+        },
+        {
+            "id": "xunlei.net",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "sandai.net",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2448282016,
+            "clientIpCount": 15337112,
+            "subdomainCount": 1372
+        },
+        {
+            "id": "alipayobjects.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 219994100,
+            "clientIpCount": 13991373,
+            "subdomainCount": 340
+        },
+        {
+            "id": "akam.net",
+            "indegree": 3,
+            "color": "green"
+        },
+        {
+            "id": "mozilla.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 263769098,
+            "clientIpCount": 14280143,
+            "subdomainCount": 492
+        },
+        {
+            "id": "ximalaya.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1253836595,
+            "clientIpCount": 17323278,
+            "subdomainCount": 730
+        },
+        {
+            "id": "dbankcloud.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2328601201,
+            "clientIpCount": 14165842,
+            "subdomainCount": 1301
+        },
+        {
+            "id": "kwaishop.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 103588313,
+            "clientIpCount": 13177635,
+            "subdomainCount": 20
+        },
+        {
+            "id": "azure-dns.com",
+            "indegree": 3,
+            "color": "green"
+        },
+        {
+            "id": "microsoft.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2945687547,
+            "clientIpCount": 12990628,
+            "subdomainCount": 44144
+        },
+        {
+            "id": "azure-dns.net",
+            "indegree": 3,
+            "color": "green"
+        },
+        {
+            "id": "azure-dns.org",
+            "indegree": 3,
+            "color": "green"
+        },
+        {
+            "id": "azure-dns.info",
+            "indegree": 3,
+            "color": "green"
+        },
+        {
+            "id": "mmstat.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 285141198,
+            "clientIpCount": 13254752,
+            "subdomainCount": 179
+        },
+        {
+            "id": "sogo.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 74313231,
+            "clientIpCount": 14000474,
+            "subdomainCount": 492
+        },
+        {
+            "id": "mtk.com.tw",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "mediatek.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 208909072,
+            "clientIpCount": 15175724,
+            "subdomainCount": 309
+        },
+        {
+            "id": "com.tw",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "twnic.net.tw",
+            "indegree": 3,
+            "color": "green"
+        },
+        {
+            "id": "net.tw",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "apnic.net",
+            "indegree": 5,
+            "color": "green"
+        },
+        {
+            "id": "dnsnode.net",
+            "indegree": 3,
+            "color": "green"
+        },
+        {
+            "id": "authdns.ripe.net",
+            "indegree": 5,
+            "color": "green"
+        },
+        {
+            "id": "ripe.net",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "afrinic.net",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "arin.net",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "lacnic.net",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "lactld.org",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "dns.br",
+            "indegree": 3,
+            "color": "green"
+        },
+        {
+            "id": "br",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "nic.cl",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "sth.netnod.se",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "netnod.se",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "se",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "ns.se",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "cl",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "anycast.pch.net",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "d-zone.ca",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "ca",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "ca-servers.ca",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "APNIC.net",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "ARIN.net",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "dns.tw",
+            "indegree": 3,
+            "color": "green"
+        },
+        {
+            "id": "tw",
+            "indegree": 3,
+            "color": "green"
+        },
+        {
+            "id": "twnic.net",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "clickwifi.net",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 85491716,
+            "clientIpCount": 13087824,
+            "subdomainCount": 37
+        },
+        {
+            "id": "ksyuncdn.com",
+            "indegree": 1,
+            "color": "green",
+            "requestCount": 1562079902,
+            "clientIpCount": 11316643,
+            "subdomainCount": 324
+        },
+        {
+            "id": "ks-live.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 208085883,
+            "clientIpCount": 12611028,
+            "subdomainCount": 99
+        },
+        {
+            "id": "a.ksycdn.cn",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "ksycdn.cn",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "huaweicloud-dns.net",
+            "indegree": 3,
+            "color": "green"
+        },
+        {
+            "id": "jpush.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 386082250,
+            "clientIpCount": 14298978,
+            "subdomainCount": 432
+        },
+        {
+            "id": "xycdn.net",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "xycdn.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1529221970,
+            "clientIpCount": 16829181,
+            "subdomainCount": 204
+        },
+        {
+            "id": "pgzs.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 103321767,
+            "clientIpCount": 13235984,
+            "subdomainCount": 24
+        },
+        {
+            "id": "tanx.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 193061276,
+            "clientIpCount": 12896008,
+            "subdomainCount": 110
+        },
+        {
+            "id": "nearme.com.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 176793534,
+            "clientIpCount": 12334999,
+            "subdomainCount": 413
+        },
+        {
+            "id": "cnmobile.net",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "chinamobile.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1898374310,
+            "clientIpCount": 13853069,
+            "subdomainCount": 37076
+        },
+        {
+            "id": "cmmobile.cn",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "bytemastatic.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 193327960,
+            "clientIpCount": 11640334,
+            "subdomainCount": 32
+        },
+        {
+            "id": "servicewechat.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 104415910,
+            "clientIpCount": 11949975,
+            "subdomainCount": 31
+        },
+        {
+            "id": "kugou.net",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "kugou.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1217520391,
+            "clientIpCount": 12356046,
+            "subdomainCount": 4286
+        },
+        {
+            "id": "gstatic.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 721523639,
+            "clientIpCount": 26606006,
+            "subdomainCount": 1023635
+        },
+        {
+            "id": "ucweb.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 273604802,
+            "clientIpCount": 12515827,
+            "subdomainCount": 992
+        },
+        {
+            "id": "cnzz.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 128888393,
+            "clientIpCount": 11966675,
+            "subdomainCount": 691
+        },
+        {
+            "id": "dbankcloud.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 978721830,
+            "clientIpCount": 13926894,
+            "subdomainCount": 2682
+        },
+        {
+            "id": "weibo.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1063458539,
+            "clientIpCount": 12766566,
+            "subdomainCount": 2426
+        },
+        {
+            "id": "sina.com",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "alibaba.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 482575159,
+            "clientIpCount": 11640615,
+            "subdomainCount": 17114526
+        },
+        {
+            "id": "googleapis.com",
+            "indegree": 4,
+            "color": "green"
+        },
+        {
+            "id": "clientservices.googleapis.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 147173138,
+            "clientIpCount": 12882226,
+            "subdomainCount": 4
+        },
+        {
+            "id": "cmpassport.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 197823018,
+            "clientIpCount": 12255831,
+            "subdomainCount": 2557
+        },
+        {
+            "id": "openspeech.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 248034241,
+            "clientIpCount": 11487422,
+            "subdomainCount": 253
+        },
+        {
+            "id": "fxltsbl.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 48399751,
+            "clientIpCount": 11489329,
+            "subdomainCount": 2414
+        },
+        {
+            "id": "www.googleapis.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 145628147,
+            "clientIpCount": 13081576,
+            "subdomainCount": 3
+        },
+        {
+            "id": "360buyimg.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 378673283,
+            "clientIpCount": 11220598,
+            "subdomainCount": 853
+        },
+        {
+            "id": "tmall.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 199552496,
+            "clientIpCount": 11170589,
+            "subdomainCount": 168907
+        },
+        {
+            "id": "bytescm.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 300378079,
+            "clientIpCount": 11202626,
+            "subdomainCount": 45
+        },
+        {
+            "id": "bsgslb.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 327657844,
+            "clientIpCount": 12610548,
+            "subdomainCount": 68393
+        },
+        {
+            "id": "solocdn.cn",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "mob.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 270143688,
+            "clientIpCount": 11705483,
+            "subdomainCount": 1052
+        },
+        {
+            "id": "douyin.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 844796863,
+            "clientIpCount": 10384921,
+            "subdomainCount": 876
+        },
+        {
+            "id": "alibabachengdun.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 139167106,
+            "clientIpCount": 10936620,
+            "subdomainCount": 7
+        },
+        {
+            "id": "ibytedapm.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 84450378,
+            "clientIpCount": 10810596,
+            "subdomainCount": 8
+        },
+        {
+            "id": "gvt2.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 183607796,
+            "clientIpCount": 11292372,
+            "subdomainCount": 135
+        },
+        {
+            "id": "finzfin.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 123921719,
+            "clientIpCount": 10840173,
+            "subdomainCount": 171
+        },
+        {
+            "id": "bytegoofy.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 233074549,
+            "clientIpCount": 10577259,
+            "subdomainCount": 39
+        },
+        {
+            "id": "getui.net",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 98034745,
+            "clientIpCount": 10288737,
+            "subdomainCount": 56
+        },
+        {
+            "id": "mi-img.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 129396002,
+            "clientIpCount": 9915347,
+            "subdomainCount": 1449
+        },
+        {
+            "id": "wechatpay.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 71695886,
+            "clientIpCount": 10834198,
+            "subdomainCount": 81
+        },
+        {
+            "id": "url.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 197992248,
+            "clientIpCount": 9892298,
+            "subdomainCount": 285
+        },
+        {
+            "id": "dutils.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 222209477,
+            "clientIpCount": 10923220,
+            "subdomainCount": 78
+        },
+        {
+            "id": "gepush.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 90105820,
+            "clientIpCount": 10097406,
+            "subdomainCount": 44
+        },
+        {
+            "id": "windows.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 372566192,
+            "clientIpCount": 9840116,
+            "subdomainCount": 1679
+        },
+        {
+            "id": "wps.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3417871393,
+            "clientIpCount": 9424394,
+            "subdomainCount": 1536
+        },
+        {
+            "id": "qy.net",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 242368042,
+            "clientIpCount": 11043691,
+            "subdomainCount": 732502
+        },
+        {
+            "id": "kingclouddns.com",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "ksc-test.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 191910491,
+            "clientIpCount": 9647932,
+            "subdomainCount": 153
+        },
+        {
+            "id": "126.net",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 499116974,
+            "clientIpCount": 9924124,
+            "subdomainCount": 2686
+        },
+        {
+            "id": "netease.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1046631849,
+            "clientIpCount": 12277229,
+            "subdomainCount": 16462843
+        },
+        {
+            "id": "toutiaoimg.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 184151372,
+            "clientIpCount": 9880759,
+            "subdomainCount": 129
+        },
+        {
+            "id": "dianping.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 432539217,
+            "clientIpCount": 10695908,
+            "subdomainCount": 41072
+        },
+        {
+            "id": "tenpay.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 74960393,
+            "clientIpCount": 9595580,
+            "subdomainCount": 2673
+        },
+        {
+            "id": "dbankcloud.asia",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 115802341,
+            "clientIpCount": 9479898,
+            "subdomainCount": 18
+        },
+        {
+            "id": "asia",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "asia.afilias-nst.asia",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "asia.afilias-nst.info",
+            "indegree": 3,
+            "color": "green"
+        },
+        {
+            "id": "asia.afilias-nst.org",
+            "indegree": 3,
+            "color": "green"
+        },
+        {
+            "id": "afilias-nst.asia",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "huawei.cn",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "huawei.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 683445593,
+            "clientIpCount": 9753694,
+            "subdomainCount": 206745
+        },
+        {
+            "id": "tencentmusic.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 220581018,
+            "clientIpCount": 10122503,
+            "subdomainCount": 488
+        },
+        {
+            "id": "ifeng.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 194693641,
+            "clientIpCount": 9390529,
+            "subdomainCount": 3236
+        },
+        {
+            "id": "bilibili.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1390559099,
+            "clientIpCount": 9406889,
+            "subdomainCount": 2390
+        },
+        {
+            "id": "51y5.net",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 440389332,
+            "clientIpCount": 9596656,
+            "subdomainCount": 354
+        },
+        {
+            "id": "ugdtimg.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 152524321,
+            "clientIpCount": 10338346,
+            "subdomainCount": 523
+        },
+        {
+            "id": "alibabausercontent.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 96017127,
+            "clientIpCount": 9557981,
+            "subdomainCount": 82
+        },
+        {
+            "id": "yidianzixun.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 536457612,
+            "clientIpCount": 12305638,
+            "subdomainCount": 758
+        },
+        {
+            "id": "myhuaweicloud.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3078060469,
+            "clientIpCount": 9652728,
+            "subdomainCount": 44199
+        },
+        {
+            "id": "akagtm.org",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "akadns.net",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3588525447,
+            "clientIpCount": 13649464,
+            "subdomainCount": 9032
+        },
+        {
+            "id": "update.googleapis.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 103789230,
+            "clientIpCount": 9623784,
+            "subdomainCount": 2
+        },
+        {
+            "id": "dbankcdn.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1119032767,
+            "clientIpCount": 8284984,
+            "subdomainCount": 239
+        },
+        {
+            "id": "miwifi.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1683747136,
+            "clientIpCount": 8849818,
+            "subdomainCount": 317
+        },
+        {
+            "id": "windowsupdate.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 360508438,
+            "clientIpCount": 8340106,
+            "subdomainCount": 608
+        },
+        {
+            "id": "p03.dynect.net",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "digicert.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 244474214,
+            "clientIpCount": 9598233,
+            "subdomainCount": 330
+        },
+        {
+            "id": "dnsmadeeasy.com",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "xiaohongshu.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 740299726,
+            "clientIpCount": 10423216,
+            "subdomainCount": 1406
+        },
+        {
+            "id": "iqiyipic.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 570152143,
+            "clientIpCount": 9497090,
+            "subdomainCount": 1266
+        },
+        {
+            "id": "abchina.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 60792636,
+            "clientIpCount": 9048614,
+            "subdomainCount": 919
+        },
+        {
+            "id": "content-autofill.googleapis.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 404337174,
+            "clientIpCount": 9357107,
+            "subdomainCount": 2
+        },
+        {
+            "id": "domaincontrol.com",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "easytomessage.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 76434114,
+            "clientIpCount": 9572853,
+            "subdomainCount": 6
+        },
+        {
+            "id": "icloud.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1036094328,
+            "clientIpCount": 9636767,
+            "subdomainCount": 9164
+        },
+        {
+            "id": "bytednsdoc.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 223143366,
+            "clientIpCount": 9528599,
+            "subdomainCount": 32
+        },
+        {
+            "id": "ppstream.com",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "ppsimg.com",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 61152464,
+            "clientIpCount": 9796524,
+            "subdomainCount": 25730670
+        },
+        {
+            "id": "jpush.io",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 81563432,
+            "clientIpCount": 9391109,
+            "subdomainCount": 554
+        },
+        {
+            "id": "io",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "nic.io",
+            "indegree": 1,
+            "color": "green"
+        }
+    ],
+    "links": [
+        {
+            "source": "qq.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "com",
+            "target": "gtld-servers.net",
+            "color": "green"
+        },
+        {
+            "source": "com",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "gtld-servers.net",
+            "target": "nstld.com",
+            "color": "green"
+        },
+        {
+            "source": "gtld-servers.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "nstld.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "net",
+            "target": "gtld-servers.net",
+            "color": "green"
+        },
+        {
+            "source": "net",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "baidu.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "alidns.com",
+            "target": "aliyun.com",
+            "color": "green"
+        },
+        {
+            "source": "alidns.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "douyincdn.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "douyincdn.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "aliyun.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "dnsv5.com",
+            "target": "dnsv5.net",
+            "color": "green"
+        },
+        {
+            "source": "dnsv5.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "yximgs.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "yximgs.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "dnsv5.net",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "dnsv5.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "amap.com",
+            "target": "aliyun.com",
+            "color": "green"
+        },
+        {
+            "source": "amap.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "taobao.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "vivo.com.cn",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "vivo.com.cn",
+            "target": "com.cn",
+            "color": "green"
+        },
+        {
+            "source": "com.cn",
+            "target": "dns.cn",
+            "color": "green"
+        },
+        {
+            "source": "com.cn",
+            "target": "cernet.net",
+            "color": "green"
+        },
+        {
+            "source": "com.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "dns.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "cn",
+            "target": "dns.cn",
+            "color": "green"
+        },
+        {
+            "source": "cn",
+            "target": "cernet.net",
+            "color": "green"
+        },
+        {
+            "source": "cn",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "cernet.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "live-voip.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "live-voip.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "video-voip.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "video-voip.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "google.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "gifshow.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "gifshow.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "snssdk.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "snssdk.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "pinduoduo.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "pinduoduo.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "kwaicdn.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "kwaicdn.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "bytedns.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "bytedns.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "douyinliving.com",
+            "target": "bytedns.com",
+            "color": "green"
+        },
+        {
+            "source": "douyinliving.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "heytapmobi.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "heytapmobi.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "hichina.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "kwimgs.com",
+            "target": "hichina.com",
+            "color": "green"
+        },
+        {
+            "source": "kwimgs.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "ksapisrv.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "ksapisrv.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "sogou.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "alibabadns.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "alicdn.com",
+            "target": "alibabadns.com",
+            "color": "green"
+        },
+        {
+            "source": "alicdn.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "douyinvod.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "douyinvod.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "qpic.cn",
+            "target": "qq.com",
+            "color": "green"
+        },
+        {
+            "source": "qpic.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "inkuai.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "inkuai.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "dnspod.net",
+            "target": "dnsv2.com",
+            "color": "green"
+        },
+        {
+            "source": "dnspod.net",
+            "target": "dnsv2.net",
+            "color": "green"
+        },
+        {
+            "source": "dnspod.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "oskwai.com",
+            "target": "dnspod.net",
+            "color": "green"
+        },
+        {
+            "source": "oskwai.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "dnsv2.com",
+            "target": "dnsv2.net",
+            "color": "green"
+        },
+        {
+            "source": "dnsv2.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "dnsv2.net",
+            "target": "dnsv2.com",
+            "color": "green"
+        },
+        {
+            "source": "dnsv2.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "zijieapi.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "zijieapi.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "amemv.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "amemv.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "kuaishou.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "kuaishou.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "aliyuncs.com",
+            "target": "aliyun.com",
+            "color": "green"
+        },
+        {
+            "source": "aliyuncs.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "dnsv4.com",
+            "target": "dnsv4.net",
+            "color": "green"
+        },
+        {
+            "source": "dnsv4.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "ecukwai.com",
+            "target": "dnsv4.com",
+            "color": "green"
+        },
+        {
+            "source": "ecukwai.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "dnsv4.net",
+            "target": "dnsv4.com",
+            "color": "green"
+        },
+        {
+            "source": "dnsv4.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "kspkg.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "kspkg.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "allawntech.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "allawntech.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "xxpkg.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "xxpkg.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "ixigua.com",
+            "target": "bytedns.com",
+            "color": "green"
+        },
+        {
+            "source": "ixigua.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "google.cn",
+            "target": "google.com",
+            "color": "green"
+        },
+        {
+            "source": "google.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "kuaishouzt.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "kuaishouzt.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "pstatp.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "pstatp.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "googleapis.cn",
+            "target": "google.com",
+            "color": "green"
+        },
+        {
+            "source": "googleapis.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "miui.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "miui.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "umeng.com",
+            "target": "alibabadns.com",
+            "color": "green"
+        },
+        {
+            "source": "umeng.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "heytapdownload.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "heytapdownload.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "jdcache.com",
+            "target": "jd.com",
+            "color": "green"
+        },
+        {
+            "source": "jdcache.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "jd.com",
+            "target": "jdcache.com",
+            "color": "green"
+        },
+        {
+            "source": "jd.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "oppomobile.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "oppomobile.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "xiaomi.net",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "xiaomi.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "xiaomi.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "xiaomi.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "pddpic.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "pddpic.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "kscdns.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "ksyun.com",
+            "target": "kscdns.com",
+            "color": "green"
+        },
+        {
+            "source": "ksyun.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "ctobsnssdk.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "ctobsnssdk.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "douyinpic.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "douyinpic.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "360safe.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "360.cn",
+            "target": "360safe.com",
+            "color": "green"
+        },
+        {
+            "source": "360.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "kwaizt.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "kwaizt.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "coloros.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "coloros.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "awsdns-13.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "heytapdl.com",
+            "target": "awsdns-13.com",
+            "color": "green"
+        },
+        {
+            "source": "heytapdl.com",
+            "target": "awsdns-57.org",
+            "color": "green"
+        },
+        {
+            "source": "heytapdl.com",
+            "target": "awsdns-16.co.uk",
+            "color": "green"
+        },
+        {
+            "source": "heytapdl.com",
+            "target": "awsdns-13.net",
+            "color": "green"
+        },
+        {
+            "source": "heytapdl.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "awsdns-57.org",
+            "target": "org",
+            "color": "green"
+        },
+        {
+            "source": "org",
+            "target": "org.afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "org",
+            "target": "org.afilias-nst.org",
+            "color": "green"
+        },
+        {
+            "source": "org",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "org.afilias-nst.info",
+            "target": "org.afilias-nst.org",
+            "color": "green"
+        },
+        {
+            "source": "org.afilias-nst.info",
+            "target": "afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "org.afilias-nst.org",
+            "target": "org.afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "org.afilias-nst.org",
+            "target": "afilias-nst.org",
+            "color": "green"
+        },
+        {
+            "source": "afilias-nst.org",
+            "target": "dig.afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "afilias-nst.org",
+            "target": "org",
+            "color": "green"
+        },
+        {
+            "source": "dig.afilias-nst.info",
+            "target": "afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "afilias-nst.info",
+            "target": "dig.afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "afilias-nst.info",
+            "target": "info",
+            "color": "green"
+        },
+        {
+            "source": "info",
+            "target": "info.afilias-nst.org",
+            "color": "green"
+        },
+        {
+            "source": "info",
+            "target": "info.afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "info",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "info.afilias-nst.org",
+            "target": "info.afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "info.afilias-nst.org",
+            "target": "afilias-nst.org",
+            "color": "green"
+        },
+        {
+            "source": "info.afilias-nst.info",
+            "target": "info.afilias-nst.org",
+            "color": "green"
+        },
+        {
+            "source": "info.afilias-nst.info",
+            "target": "afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "awsdns-16.co.uk",
+            "target": "co.uk",
+            "color": "green"
+        },
+        {
+            "source": "co.uk",
+            "target": "nic.uk",
+            "color": "green"
+        },
+        {
+            "source": "co.uk",
+            "target": "uk",
+            "color": "green"
+        },
+        {
+            "source": "nic.uk",
+            "target": "uk",
+            "color": "green"
+        },
+        {
+            "source": "uk",
+            "target": "nic.uk",
+            "color": "green"
+        },
+        {
+            "source": "uk",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "awsdns-13.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "chinanetcenter.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "toutiao.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "toutiao.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "volcsiriusbd.com",
+            "target": "bytedns.com",
+            "color": "green"
+        },
+        {
+            "source": "volcsiriusbd.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "tencent.com",
+            "target": "qq.com",
+            "color": "green"
+        },
+        {
+            "source": "tencent.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "bdstatic.com",
+            "target": "baidu.com",
+            "color": "green"
+        },
+        {
+            "source": "bdstatic.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "bytedance.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "bytedance.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "sina.com.cn",
+            "target": "com.cn",
+            "color": "green"
+        },
+        {
+            "source": "sina.cn",
+            "target": "sina.com.cn",
+            "color": "green"
+        },
+        {
+            "source": "sina.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "ecombdapi.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "ecombdapi.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "alipay.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "pglstatp-toutiao.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "pglstatp-toutiao.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "nease.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "163.com",
+            "target": "nease.net",
+            "color": "green"
+        },
+        {
+            "source": "163.com",
+            "target": "166.com",
+            "color": "green"
+        },
+        {
+            "source": "163.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "166.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "baidubce.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "bcebos.com",
+            "target": "baidubce.com",
+            "color": "green"
+        },
+        {
+            "source": "bcebos.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "gtimg.cn",
+            "target": "qq.com",
+            "color": "green"
+        },
+        {
+            "source": "gtimg.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "douyinstatic.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "douyinstatic.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "uc.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "heytapimage.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "heytapimage.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "sohu.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "bdydns.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "bcelive.com",
+            "target": "bdydns.cn",
+            "color": "green"
+        },
+        {
+            "source": "bcelive.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "kuiniuca.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "kuiniuca.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "huoshanlive.com",
+            "target": "bytedns.com",
+            "color": "green"
+        },
+        {
+            "source": "huoshanlive.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "youku.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "kwaixiaodian.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "kwaixiaodian.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "adukwai.com",
+            "target": "dnspod.net",
+            "color": "green"
+        },
+        {
+            "source": "adukwai.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "mi.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "mi.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "huaweicloud-dns.cn",
+            "target": "hwclouds-dns.net",
+            "color": "green"
+        },
+        {
+            "source": "huaweicloud-dns.cn",
+            "target": "hwclouds-dns.com",
+            "color": "green"
+        },
+        {
+            "source": "huaweicloud-dns.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "hicloud.com",
+            "target": "huaweicloud-dns.cn",
+            "color": "green"
+        },
+        {
+            "source": "hicloud.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "hicloud.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "hwclouds-dns.net",
+            "target": "hwclouds-dns.com",
+            "color": "green"
+        },
+        {
+            "source": "hwclouds-dns.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "hwclouds-dns.com",
+            "target": "hwclouds-dns.net",
+            "color": "green"
+        },
+        {
+            "source": "hwclouds-dns.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "ihuoshanlive.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "ihuoshanlive.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "iqiyi.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "umengcloud.com",
+            "target": "alibabadns.com",
+            "color": "green"
+        },
+        {
+            "source": "umengcloud.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "miaozhen.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "miaozhen.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "gdtimg.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "byteimg.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "byteimg.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "aliapp.org",
+            "target": "aliyun.com",
+            "color": "green"
+        },
+        {
+            "source": "aliapp.org",
+            "target": "org",
+            "color": "green"
+        },
+        {
+            "source": "huaweicloud-dns.com",
+            "target": "hwclouds-dns.net",
+            "color": "green"
+        },
+        {
+            "source": "huaweicloud-dns.com",
+            "target": "hwclouds-dns.com",
+            "color": "green"
+        },
+        {
+            "source": "huaweicloud-dns.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "cdnhwc2.com",
+            "target": "huaweicloud-dns.com",
+            "color": "green"
+        },
+        {
+            "source": "cdnhwc2.com",
+            "target": "huaweicloud-dns.cn",
+            "color": "green"
+        },
+        {
+            "source": "cdnhwc2.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "ndcpp.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "ndcpp.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "ns.apple.com",
+            "target": "apple.com",
+            "color": "green"
+        },
+        {
+            "source": "apple.com",
+            "target": "ns.apple.com",
+            "color": "green"
+        },
+        {
+            "source": "apple.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "etoote.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "etoote.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "avlyun.com",
+            "target": "dnsv4.com",
+            "color": "green"
+        },
+        {
+            "source": "avlyun.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "gtimg.com",
+            "target": "qq.com",
+            "color": "green"
+        },
+        {
+            "source": "gtimg.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "idouyinvod.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "idouyinvod.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "wwstat.com",
+            "target": "dnspod.net",
+            "color": "green"
+        },
+        {
+            "source": "wwstat.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "dbankcdn.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "dbankcdn.com",
+            "target": "huaweicloud-dns.cn",
+            "color": "green"
+        },
+        {
+            "source": "dbankcdn.com",
+            "target": "huaweicloud-dns.com",
+            "color": "green"
+        },
+        {
+            "source": "dbankcdn.com",
+            "target": "huaweicloud-dns.org",
+            "color": "green"
+        },
+        {
+            "source": "dbankcdn.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "huaweicloud-dns.org",
+            "target": "hwclouds-dns.net",
+            "color": "green"
+        },
+        {
+            "source": "huaweicloud-dns.org",
+            "target": "hwclouds-dns.com",
+            "color": "green"
+        },
+        {
+            "source": "huaweicloud-dns.org",
+            "target": "org",
+            "color": "green"
+        },
+        {
+            "source": "cdntips.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "qlogo.cn",
+            "target": "qq.com",
+            "color": "green"
+        },
+        {
+            "source": "qlogo.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "httpdns.pro",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "httpdns.pro",
+            "target": "pro",
+            "color": "green"
+        },
+        {
+            "source": "pro",
+            "target": "pro.afilias-nst.org",
+            "color": "green"
+        },
+        {
+            "source": "pro",
+            "target": "pro.afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "pro",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "pro.afilias-nst.org",
+            "target": "pro.afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "pro.afilias-nst.org",
+            "target": "afilias-nst.org",
+            "color": "green"
+        },
+        {
+            "source": "pro.afilias-nst.info",
+            "target": "pro.afilias-nst.org",
+            "color": "green"
+        },
+        {
+            "source": "pro.afilias-nst.info",
+            "target": "afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "pangolin-sdk-toutiao-b.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "pangolin-sdk-toutiao-b.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "pa18.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "pingan.com",
+            "target": "pa18.com",
+            "color": "green"
+        },
+        {
+            "source": "pingan.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "meituan.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "meituan.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "dbankcloud.eu",
+            "target": "huaweicloud-dns.cn",
+            "color": "green"
+        },
+        {
+            "source": "dbankcloud.eu",
+            "target": "huaweicloud-dns.com",
+            "color": "green"
+        },
+        {
+            "source": "dbankcloud.eu",
+            "target": "huaweicloud-dns.org",
+            "color": "green"
+        },
+        {
+            "source": "dbankcloud.eu",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "dbankcloud.eu",
+            "target": "eu",
+            "color": "green"
+        },
+        {
+            "source": "eu",
+            "target": "dns.eu",
+            "color": "green"
+        },
+        {
+            "source": "eu",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "dns.eu",
+            "target": "eu",
+            "color": "green"
+        },
+        {
+            "source": "udel.edu",
+            "target": "nnn.upenn.edu",
+            "color": "green"
+        },
+        {
+            "source": "udel.edu",
+            "target": "edu",
+            "color": "green"
+        },
+        {
+            "source": "ntp.org",
+            "target": "udel.edu",
+            "color": "green"
+        },
+        {
+            "source": "ntp.org",
+            "target": "p20.dynect.net",
+            "color": "green"
+        },
+        {
+            "source": "ntp.org",
+            "target": "everett.org",
+            "color": "green"
+        },
+        {
+            "source": "ntp.org",
+            "target": "pch.net",
+            "color": "green"
+        },
+        {
+            "source": "ntp.org",
+            "target": "org",
+            "color": "green"
+        },
+        {
+            "source": "nnn.upenn.edu",
+            "target": "upenn.edu",
+            "color": "green"
+        },
+        {
+            "source": "upenn.edu",
+            "target": "nnn.upenn.edu",
+            "color": "green"
+        },
+        {
+            "source": "upenn.edu",
+            "target": "udel.edu",
+            "color": "green"
+        },
+        {
+            "source": "upenn.edu",
+            "target": "edu",
+            "color": "green"
+        },
+        {
+            "source": "edu",
+            "target": "edu-servers.net",
+            "color": "green"
+        },
+        {
+            "source": "edu",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "edu-servers.net",
+            "target": "nstld.com",
+            "color": "green"
+        },
+        {
+            "source": "edu-servers.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "p20.dynect.net",
+            "target": "dynect.net",
+            "color": "green"
+        },
+        {
+            "source": "dynect.net",
+            "target": "dynamicnetworkservices.net",
+            "color": "green"
+        },
+        {
+            "source": "dynect.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "dynamicnetworkservices.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "everett.org",
+            "target": "iecc.com",
+            "color": "green"
+        },
+        {
+            "source": "everett.org",
+            "target": "sf-bay.org",
+            "color": "green"
+        },
+        {
+            "source": "everett.org",
+            "target": "org",
+            "color": "green"
+        },
+        {
+            "source": "iecc.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "sf-bay.org",
+            "target": "googledomains.com",
+            "color": "green"
+        },
+        {
+            "source": "sf-bay.org",
+            "target": "org",
+            "color": "green"
+        },
+        {
+            "source": "googledomains.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "pch.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "tencent-cloud.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "getui.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "getui.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "meituan.net",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "meituan.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "bytegecko.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "bytegecko.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "id6.me",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "id6.me",
+            "target": "me",
+            "color": "green"
+        },
+        {
+            "source": "me",
+            "target": "nic.me",
+            "color": "green"
+        },
+        {
+            "source": "me",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "nic.me",
+            "target": "me",
+            "color": "green"
+        },
+        {
+            "source": "myqcloud.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "baidustatic.com",
+            "target": "baidu.com",
+            "color": "green"
+        },
+        {
+            "source": "baidustatic.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "ssrcdn.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "ssrcdn.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "dingtalk.com",
+            "target": "taobao.com",
+            "color": "green"
+        },
+        {
+            "source": "dingtalk.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "kskwai.com",
+            "target": "dnsv4.com",
+            "color": "green"
+        },
+        {
+            "source": "kskwai.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "bdimg.com",
+            "target": "baidu.com",
+            "color": "green"
+        },
+        {
+            "source": "bdimg.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "dnsv3.com",
+            "target": "dnsv3.net",
+            "color": "green"
+        },
+        {
+            "source": "dnsv3.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "wostore.cn",
+            "target": "dnsv3.com",
+            "color": "green"
+        },
+        {
+            "source": "wostore.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "dnsv3.net",
+            "target": "dnsv3.com",
+            "color": "green"
+        },
+        {
+            "source": "dnsv3.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "qcloud.com",
+            "target": "qq.com",
+            "color": "green"
+        },
+        {
+            "source": "qcloud.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "toutiaoapi.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "toutiaoapi.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "xunlei.net",
+            "target": "hichina.com",
+            "color": "green"
+        },
+        {
+            "source": "xunlei.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "sandai.net",
+            "target": "xunlei.net",
+            "color": "green"
+        },
+        {
+            "source": "sandai.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "alipayobjects.com",
+            "target": "alipay.com",
+            "color": "green"
+        },
+        {
+            "source": "alipayobjects.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "akam.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "mozilla.com",
+            "target": "akam.net",
+            "color": "green"
+        },
+        {
+            "source": "mozilla.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "ximalaya.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "ximalaya.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "dbankcloud.cn",
+            "target": "huaweicloud-dns.org",
+            "color": "green"
+        },
+        {
+            "source": "dbankcloud.cn",
+            "target": "huaweicloud-dns.cn",
+            "color": "green"
+        },
+        {
+            "source": "dbankcloud.cn",
+            "target": "huaweicloud-dns.com",
+            "color": "green"
+        },
+        {
+            "source": "dbankcloud.cn",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "dbankcloud.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "kwaishop.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "kwaishop.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "azure-dns.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "microsoft.com",
+            "target": "azure-dns.com",
+            "color": "green"
+        },
+        {
+            "source": "microsoft.com",
+            "target": "azure-dns.net",
+            "color": "green"
+        },
+        {
+            "source": "microsoft.com",
+            "target": "azure-dns.org",
+            "color": "green"
+        },
+        {
+            "source": "microsoft.com",
+            "target": "azure-dns.info",
+            "color": "green"
+        },
+        {
+            "source": "microsoft.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "azure-dns.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "azure-dns.org",
+            "target": "org",
+            "color": "green"
+        },
+        {
+            "source": "azure-dns.info",
+            "target": "info",
+            "color": "green"
+        },
+        {
+            "source": "mmstat.com",
+            "target": "aliyun.com",
+            "color": "green"
+        },
+        {
+            "source": "mmstat.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "sogo.com",
+            "target": "sogou.com",
+            "color": "green"
+        },
+        {
+            "source": "sogo.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "mtk.com.tw",
+            "target": "com.tw",
+            "color": "green"
+        },
+        {
+            "source": "mediatek.com",
+            "target": "mtk.com.tw",
+            "color": "green"
+        },
+        {
+            "source": "mediatek.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "com.tw",
+            "target": "twnic.net.tw",
+            "color": "green"
+        },
+        {
+            "source": "com.tw",
+            "target": "apnic.net",
+            "color": "green"
+        },
+        {
+            "source": "com.tw",
+            "target": "dns.tw",
+            "color": "green"
+        },
+        {
+            "source": "com.tw",
+            "target": "tw",
+            "color": "green"
+        },
+        {
+            "source": "twnic.net.tw",
+            "target": "net.tw",
+            "color": "green"
+        },
+        {
+            "source": "net.tw",
+            "target": "twnic.net.tw",
+            "color": "green"
+        },
+        {
+            "source": "net.tw",
+            "target": "apnic.net",
+            "color": "green"
+        },
+        {
+            "source": "net.tw",
+            "target": "dns.tw",
+            "color": "green"
+        },
+        {
+            "source": "net.tw",
+            "target": "tw",
+            "color": "green"
+        },
+        {
+            "source": "apnic.net",
+            "target": "dnsnode.net",
+            "color": "green"
+        },
+        {
+            "source": "apnic.net",
+            "target": "authdns.ripe.net",
+            "color": "green"
+        },
+        {
+            "source": "apnic.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "dnsnode.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "authdns.ripe.net",
+            "target": "ripe.net",
+            "color": "green"
+        },
+        {
+            "source": "ripe.net",
+            "target": "apnic.net",
+            "color": "green"
+        },
+        {
+            "source": "ripe.net",
+            "target": "authdns.ripe.net",
+            "color": "green"
+        },
+        {
+            "source": "ripe.net",
+            "target": "afrinic.net",
+            "color": "green"
+        },
+        {
+            "source": "ripe.net",
+            "target": "lacnic.net",
+            "color": "green"
+        },
+        {
+            "source": "ripe.net",
+            "target": "arin.net",
+            "color": "green"
+        },
+        {
+            "source": "ripe.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "afrinic.net",
+            "target": "apnic.net",
+            "color": "green"
+        },
+        {
+            "source": "afrinic.net",
+            "target": "arin.net",
+            "color": "green"
+        },
+        {
+            "source": "afrinic.net",
+            "target": "authdns.ripe.net",
+            "color": "green"
+        },
+        {
+            "source": "afrinic.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "arin.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "lacnic.net",
+            "target": "lactld.org",
+            "color": "green"
+        },
+        {
+            "source": "lacnic.net",
+            "target": "authdns.ripe.net",
+            "color": "green"
+        },
+        {
+            "source": "lacnic.net",
+            "target": "dns.br",
+            "color": "green"
+        },
+        {
+            "source": "lacnic.net",
+            "target": "APNIC.net",
+            "color": "green"
+        },
+        {
+            "source": "lacnic.net",
+            "target": "ARIN.net",
+            "color": "green"
+        },
+        {
+            "source": "lacnic.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "lactld.org",
+            "target": "dns.br",
+            "color": "green"
+        },
+        {
+            "source": "lactld.org",
+            "target": "nic.cl",
+            "color": "green"
+        },
+        {
+            "source": "lactld.org",
+            "target": "org",
+            "color": "green"
+        },
+        {
+            "source": "dns.br",
+            "target": "br",
+            "color": "green"
+        },
+        {
+            "source": "br",
+            "target": "dns.br",
+            "color": "green"
+        },
+        {
+            "source": "br",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "nic.cl",
+            "target": "sth.netnod.se",
+            "color": "green"
+        },
+        {
+            "source": "nic.cl",
+            "target": "cl",
+            "color": "green"
+        },
+        {
+            "source": "sth.netnod.se",
+            "target": "netnod.se",
+            "color": "green"
+        },
+        {
+            "source": "netnod.se",
+            "target": "se",
+            "color": "green"
+        },
+        {
+            "source": "se",
+            "target": "ns.se",
+            "color": "green"
+        },
+        {
+            "source": "se",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "ns.se",
+            "target": "se",
+            "color": "green"
+        },
+        {
+            "source": "cl",
+            "target": "nic.cl",
+            "color": "green"
+        },
+        {
+            "source": "cl",
+            "target": "dnsnode.net",
+            "color": "green"
+        },
+        {
+            "source": "cl",
+            "target": "anycast.pch.net",
+            "color": "green"
+        },
+        {
+            "source": "cl",
+            "target": "d-zone.ca",
+            "color": "green"
+        },
+        {
+            "source": "cl",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "anycast.pch.net",
+            "target": "pch.net",
+            "color": "green"
+        },
+        {
+            "source": "d-zone.ca",
+            "target": "akam.net",
+            "color": "green"
+        },
+        {
+            "source": "d-zone.ca",
+            "target": "ca",
+            "color": "green"
+        },
+        {
+            "source": "ca",
+            "target": "ca-servers.ca",
+            "color": "green"
+        },
+        {
+            "source": "ca",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "ca-servers.ca",
+            "target": "ca",
+            "color": "green"
+        },
+        {
+            "source": "APNIC.net",
+            "target": "dnsnode.net",
+            "color": "green"
+        },
+        {
+            "source": "APNIC.net",
+            "target": "authdns.ripe.net",
+            "color": "green"
+        },
+        {
+            "source": "APNIC.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "ARIN.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "dns.tw",
+            "target": "tw",
+            "color": "green"
+        },
+        {
+            "source": "tw",
+            "target": "dns.tw",
+            "color": "green"
+        },
+        {
+            "source": "tw",
+            "target": "twnic.net",
+            "color": "green"
+        },
+        {
+            "source": "tw",
+            "target": "apnic.net",
+            "color": "green"
+        },
+        {
+            "source": "tw",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "twnic.net",
+            "target": "twnic.net.tw",
+            "color": "green"
+        },
+        {
+            "source": "twnic.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "clickwifi.net",
+            "target": "hichina.com",
+            "color": "green"
+        },
+        {
+            "source": "clickwifi.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "ksyuncdn.com",
+            "target": "a.ksycdn.cn",
+            "color": "green"
+        },
+        {
+            "source": "ksyuncdn.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "ks-live.com",
+            "target": "ksyuncdn.com",
+            "color": "green"
+        },
+        {
+            "source": "ks-live.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "a.ksycdn.cn",
+            "target": "ksycdn.cn",
+            "color": "green"
+        },
+        {
+            "source": "ksycdn.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "huaweicloud-dns.net",
+            "target": "hwclouds-dns.com",
+            "color": "green"
+        },
+        {
+            "source": "huaweicloud-dns.net",
+            "target": "hwclouds-dns.net",
+            "color": "green"
+        },
+        {
+            "source": "huaweicloud-dns.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "jpush.cn",
+            "target": "huaweicloud-dns.net",
+            "color": "green"
+        },
+        {
+            "source": "jpush.cn",
+            "target": "huaweicloud-dns.org",
+            "color": "green"
+        },
+        {
+            "source": "jpush.cn",
+            "target": "huaweicloud-dns.com",
+            "color": "green"
+        },
+        {
+            "source": "jpush.cn",
+            "target": "huaweicloud-dns.cn",
+            "color": "green"
+        },
+        {
+            "source": "jpush.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "xycdn.net",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "xycdn.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "xycdn.com",
+            "target": "xycdn.net",
+            "color": "green"
+        },
+        {
+            "source": "xycdn.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "pgzs.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "pgzs.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "tanx.com",
+            "target": "taobao.com",
+            "color": "green"
+        },
+        {
+            "source": "tanx.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "nearme.com.cn",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "nearme.com.cn",
+            "target": "com.cn",
+            "color": "green"
+        },
+        {
+            "source": "cnmobile.net",
+            "target": "cmmobile.cn",
+            "color": "green"
+        },
+        {
+            "source": "cnmobile.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "chinamobile.com",
+            "target": "cnmobile.net",
+            "color": "green"
+        },
+        {
+            "source": "chinamobile.com",
+            "target": "cmmobile.cn",
+            "color": "green"
+        },
+        {
+            "source": "chinamobile.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "cmmobile.cn",
+            "target": "cnmobile.net",
+            "color": "green"
+        },
+        {
+            "source": "cmmobile.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "bytemastatic.com",
+            "target": "hichina.com",
+            "color": "green"
+        },
+        {
+            "source": "bytemastatic.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "servicewechat.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "kugou.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "kugou.com",
+            "target": "kugou.net",
+            "color": "green"
+        },
+        {
+            "source": "kugou.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "gstatic.com",
+            "target": "google.com",
+            "color": "green"
+        },
+        {
+            "source": "gstatic.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "ucweb.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "cnzz.com",
+            "target": "alibabadns.com",
+            "color": "green"
+        },
+        {
+            "source": "cnzz.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "dbankcloud.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "dbankcloud.com",
+            "target": "huaweicloud-dns.org",
+            "color": "green"
+        },
+        {
+            "source": "dbankcloud.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "weibo.com",
+            "target": "sina.com.cn",
+            "color": "green"
+        },
+        {
+            "source": "weibo.com",
+            "target": "sina.com",
+            "color": "green"
+        },
+        {
+            "source": "weibo.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "sina.com",
+            "target": "sina.com.cn",
+            "color": "green"
+        },
+        {
+            "source": "sina.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "alibaba.com",
+            "target": "alibabadns.com",
+            "color": "green"
+        },
+        {
+            "source": "alibaba.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "googleapis.com",
+            "target": "google.com",
+            "color": "green"
+        },
+        {
+            "source": "googleapis.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "clientservices.googleapis.com",
+            "target": "googleapis.com",
+            "color": "green"
+        },
+        {
+            "source": "cmpassport.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "cmpassport.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "openspeech.cn",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "openspeech.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "fxltsbl.com",
+            "target": "hichina.com",
+            "color": "green"
+        },
+        {
+            "source": "fxltsbl.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "www.googleapis.com",
+            "target": "googleapis.com",
+            "color": "green"
+        },
+        {
+            "source": "360buyimg.com",
+            "target": "jdcache.com",
+            "color": "green"
+        },
+        {
+            "source": "360buyimg.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "tmall.com",
+            "target": "taobao.com",
+            "color": "green"
+        },
+        {
+            "source": "tmall.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "bytescm.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "bytescm.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "bsgslb.cn",
+            "target": "solocdn.cn",
+            "color": "green"
+        },
+        {
+            "source": "bsgslb.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "solocdn.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "mob.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "mob.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "douyin.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "douyin.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "alibabachengdun.com",
+            "target": "alibabadns.com",
+            "color": "green"
+        },
+        {
+            "source": "alibabachengdun.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "ibytedapm.com",
+            "target": "bytedns.com",
+            "color": "green"
+        },
+        {
+            "source": "ibytedapm.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "gvt2.com",
+            "target": "google.com",
+            "color": "green"
+        },
+        {
+            "source": "gvt2.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "finzfin.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "finzfin.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "bytegoofy.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "bytegoofy.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "getui.net",
+            "target": "hichina.com",
+            "color": "green"
+        },
+        {
+            "source": "getui.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "mi-img.com",
+            "target": "dnsv3.com",
+            "color": "green"
+        },
+        {
+            "source": "mi-img.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "wechatpay.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "url.cn",
+            "target": "qq.com",
+            "color": "green"
+        },
+        {
+            "source": "url.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "dutils.com",
+            "target": "hichina.com",
+            "color": "green"
+        },
+        {
+            "source": "dutils.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "gepush.com",
+            "target": "dnspod.net",
+            "color": "green"
+        },
+        {
+            "source": "gepush.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "windows.com",
+            "target": "azure-dns.com",
+            "color": "green"
+        },
+        {
+            "source": "windows.com",
+            "target": "azure-dns.net",
+            "color": "green"
+        },
+        {
+            "source": "windows.com",
+            "target": "azure-dns.org",
+            "color": "green"
+        },
+        {
+            "source": "windows.com",
+            "target": "azure-dns.info",
+            "color": "green"
+        },
+        {
+            "source": "windows.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "wps.cn",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "wps.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "qy.net",
+            "target": "iqiyi.com",
+            "color": "green"
+        },
+        {
+            "source": "qy.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "kingclouddns.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "ksc-test.com",
+            "target": "kingclouddns.com",
+            "color": "green"
+        },
+        {
+            "source": "ksc-test.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "126.net",
+            "target": "nease.net",
+            "color": "green"
+        },
+        {
+            "source": "126.net",
+            "target": "166.com",
+            "color": "green"
+        },
+        {
+            "source": "126.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "netease.com",
+            "target": "nease.net",
+            "color": "green"
+        },
+        {
+            "source": "netease.com",
+            "target": "166.com",
+            "color": "green"
+        },
+        {
+            "source": "netease.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "toutiaoimg.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "toutiaoimg.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "dianping.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "dianping.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "tenpay.com",
+            "target": "qq.com",
+            "color": "green"
+        },
+        {
+            "source": "tenpay.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "dbankcloud.asia",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "dbankcloud.asia",
+            "target": "huaweicloud-dns.cn",
+            "color": "green"
+        },
+        {
+            "source": "dbankcloud.asia",
+            "target": "huaweicloud-dns.com",
+            "color": "green"
+        },
+        {
+            "source": "dbankcloud.asia",
+            "target": "huaweicloud-dns.org",
+            "color": "green"
+        },
+        {
+            "source": "dbankcloud.asia",
+            "target": "asia",
+            "color": "green"
+        },
+        {
+            "source": "asia",
+            "target": "asia.afilias-nst.asia",
+            "color": "green"
+        },
+        {
+            "source": "asia",
+            "target": "asia.afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "asia",
+            "target": "asia.afilias-nst.org",
+            "color": "green"
+        },
+        {
+            "source": "asia",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "asia.afilias-nst.asia",
+            "target": "asia.afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "asia.afilias-nst.asia",
+            "target": "asia.afilias-nst.org",
+            "color": "green"
+        },
+        {
+            "source": "asia.afilias-nst.asia",
+            "target": "afilias-nst.asia",
+            "color": "green"
+        },
+        {
+            "source": "asia.afilias-nst.info",
+            "target": "asia.afilias-nst.org",
+            "color": "green"
+        },
+        {
+            "source": "asia.afilias-nst.info",
+            "target": "afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "asia.afilias-nst.org",
+            "target": "asia.afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "asia.afilias-nst.org",
+            "target": "afilias-nst.org",
+            "color": "green"
+        },
+        {
+            "source": "afilias-nst.asia",
+            "target": "dig.afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "afilias-nst.asia",
+            "target": "asia",
+            "color": "green"
+        },
+        {
+            "source": "huawei.cn",
+            "target": "huaweicloud-dns.com",
+            "color": "green"
+        },
+        {
+            "source": "huawei.cn",
+            "target": "huaweicloud-dns.cn",
+            "color": "green"
+        },
+        {
+            "source": "huawei.cn",
+            "target": "huaweicloud-dns.net",
+            "color": "green"
+        },
+        {
+            "source": "huawei.cn",
+            "target": "huaweicloud-dns.org",
+            "color": "green"
+        },
+        {
+            "source": "huawei.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "huawei.com",
+            "target": "huawei.cn",
+            "color": "green"
+        },
+        {
+            "source": "huawei.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "tencentmusic.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "ifeng.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "ifeng.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "bilibili.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "bilibili.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "51y5.net",
+            "target": "dnsv4.com",
+            "color": "green"
+        },
+        {
+            "source": "51y5.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "ugdtimg.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "alibabausercontent.com",
+            "target": "taobao.com",
+            "color": "green"
+        },
+        {
+            "source": "alibabausercontent.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "yidianzixun.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "yidianzixun.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "myhuaweicloud.com",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "myhuaweicloud.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "akagtm.org",
+            "target": "org",
+            "color": "green"
+        },
+        {
+            "source": "akadns.net",
+            "target": "akagtm.org",
+            "color": "green"
+        },
+        {
+            "source": "akadns.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "update.googleapis.com",
+            "target": "googleapis.com",
+            "color": "green"
+        },
+        {
+            "source": "dbankcdn.cn",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "dbankcdn.cn",
+            "target": "huaweicloud-dns.cn",
+            "color": "green"
+        },
+        {
+            "source": "dbankcdn.cn",
+            "target": "huaweicloud-dns.com",
+            "color": "green"
+        },
+        {
+            "source": "dbankcdn.cn",
+            "target": "huaweicloud-dns.org",
+            "color": "green"
+        },
+        {
+            "source": "dbankcdn.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "miwifi.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "miwifi.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "windowsupdate.com",
+            "target": "azure-dns.com",
+            "color": "green"
+        },
+        {
+            "source": "windowsupdate.com",
+            "target": "azure-dns.net",
+            "color": "green"
+        },
+        {
+            "source": "windowsupdate.com",
+            "target": "azure-dns.org",
+            "color": "green"
+        },
+        {
+            "source": "windowsupdate.com",
+            "target": "azure-dns.info",
+            "color": "green"
+        },
+        {
+            "source": "windowsupdate.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "p03.dynect.net",
+            "target": "dynect.net",
+            "color": "green"
+        },
+        {
+            "source": "digicert.com",
+            "target": "p03.dynect.net",
+            "color": "green"
+        },
+        {
+            "source": "digicert.com",
+            "target": "dnsmadeeasy.com",
+            "color": "green"
+        },
+        {
+            "source": "digicert.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "dnsmadeeasy.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "xiaohongshu.com",
+            "target": "dnsv5.com",
+            "color": "green"
+        },
+        {
+            "source": "xiaohongshu.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "iqiyipic.com",
+            "target": "iqiyi.com",
+            "color": "green"
+        },
+        {
+            "source": "iqiyipic.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "abchina.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "content-autofill.googleapis.com",
+            "target": "googleapis.com",
+            "color": "green"
+        },
+        {
+            "source": "domaincontrol.com",
+            "target": "akam.net",
+            "color": "green"
+        },
+        {
+            "source": "domaincontrol.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "easytomessage.com",
+            "target": "domaincontrol.com",
+            "color": "green"
+        },
+        {
+            "source": "easytomessage.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "icloud.com",
+            "target": "ns.apple.com",
+            "color": "green"
+        },
+        {
+            "source": "icloud.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "bytednsdoc.com",
+            "target": "hichina.com",
+            "color": "green"
+        },
+        {
+            "source": "bytednsdoc.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "ppstream.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "ppsimg.com",
+            "target": "ppstream.com",
+            "color": "green"
+        },
+        {
+            "source": "ppsimg.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "jpush.io",
+            "target": "huaweicloud-dns.com",
+            "color": "green"
+        },
+        {
+            "source": "jpush.io",
+            "target": "huaweicloud-dns.cn",
+            "color": "green"
+        },
+        {
+            "source": "jpush.io",
+            "target": "huaweicloud-dns.net",
+            "color": "green"
+        },
+        {
+            "source": "jpush.io",
+            "target": "huaweicloud-dns.org",
+            "color": "green"
+        },
+        {
+            "source": "jpush.io",
+            "target": "io",
+            "color": "green"
+        },
+        {
+            "source": "io",
+            "target": "nic.io",
+            "color": "green"
+        },
+        {
+            "source": "io",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "nic.io",
+            "target": "io",
+            "color": "green"
+        }
+    ]
+}

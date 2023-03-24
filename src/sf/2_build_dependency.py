@@ -18,16 +18,19 @@ import pickle
 folder_analysis = "res"
 
 DEBUG = True
-domain_file = "topdomain10k.txt"
-ns_file = "domain_ns_info.txt"
+# domain_file = "topdomain10k.txt"
+domain_file = "../data/"+sys.argv[1]+".list"
+ntype = sys.argv[1]
+ns_file = "../data/"+ntype+".domain_ns_info.txt"
 null_ns = "~NO~NS~"
 
-SAVE_GRAPH_AS_FILE = True
-graph_output_dir = "graph/"
+SAVE_GRAPH_AS_FILE = False
+graph_output_dir = "../data/graph/"
 
 # all graphs. Graph_set[domain] = {"G_general": {"graph": G, "extrasize": 5, "avgextradepth", "maxextradepth"},
 #                                  "G_explicit", "G_critical", "G_essential"}
 # saved as folder_analysis/graph_set.bin
+# for each domain
 Graph_set = {}
 # global graphs. Global_graph_set = {"general": G, "explicit", "critical", "essential"}
 Global_graph_set = {}
@@ -73,11 +76,14 @@ print("[++] Zones in NS dict:", len(domain_ns))
 # DFS of the dependency graph of each domain. 1. from NS record; 2. from the direct parent domain.
 # mode is one of the following: "general", "explicit", "critical", "essential"
 # build global graphs WHILE building individual ones.
+
+
 def build_graph(domain, G, mode):
     # 1. find the next node from NS records.
     try:
         for ns in domain_ns[domain]:
-            ns_parent = ns[ns.find(".") + 1:]    # only take the parent of each NS.
+            # only take the parent of each NS.
+            ns_parent = ns[ns.find(".") + 1:]
             if mode == "general":
                 # [General] add everything.
                 # if ns is already in the graph (i.e., visited), then just add the edge.
@@ -178,6 +184,7 @@ def has_glue(dom1, dom2):
     else:
         return True
 
+
 ###### MAIN ######
 # begin query ns of these domains.
 counter = 1
@@ -216,7 +223,8 @@ for domain in domain_list:
                 continue
             for zi in Zn:
                 # get the distance between domain and zi (i.e., each node in Zn).
-                depth = nx.shortest_path_length(G_set[mode]["graph"], source=domain, target=zi)
+                depth = nx.shortest_path_length(
+                    G_set[mode]["graph"], source=domain, target=zi)
                 AvgExtraDepth += depth
                 if depth > MaxExtraDepth:
                     MaxExtraDepth = depth
@@ -230,27 +238,11 @@ for domain in domain_list:
     if DEBUG and counter > 200:
         break
 
-pickle.dump(Graph_set, open("graph_set_per_domain.bin", "wb"))
-pickle.dump(Global_graph_set, open("graph_set_global.bin", "wb"))
-# nx.draw_spring(Global_graph_set["essential"], with_labels=True)
-# n = 1
+for i in Global_graph_set:
+    nx.draw_spring(Global_graph_set[i], with_labels=True)
+    plt.savefig(graph_output_dir + ntype + "." + i + ".png")
+    plt.clf()
 
-
-# merge the global graph after individual ones. it is TOO SLOW. pls build global graph WHILE building individual ones.
-'''
-print("\n")
-# Global_graph_set = {"general": G, "explicit", "critical", "essential"}
-Global_graph_set = {}
-for mode in ["general", "explicit", "critical", "essential"]:
-    Global_graph_set[mode] = nx.DiGraph()
-    domain_counter = 1
-    for domain in Graph_set:
-        Global_graph_set[mode] = nx.compose(Global_graph_set[mode], Graph_set[domain][mode]["graph"])
-        # nx.draw_spring(Global_graph_set[mode], with_labels=True)
-        # plt.clf()
-        domain_counter += 1
-        if domain_counter % 100 == 0:
-            print("[++++++] Global: building", mode, "domain no.", domain_counter)
-
-pickle.dump(Global_graph_set, open("graph_set_global.bin", "wb"))
-'''
+pickle.dump(Graph_set, open(domain_file[:-4]+"graph_set_per_domain.bin", "wb"))
+pickle.dump(Global_graph_set, open(
+    domain_file[:-4]+"graph_set_global.bin", "wb"))

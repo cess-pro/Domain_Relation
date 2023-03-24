@@ -1,0 +1,3554 @@
+{
+    "nodes": [
+        {
+            "id": "miit.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 45544964,
+            "clientIpCount": 2513561,
+            "subdomainCount": 933
+        },
+        {
+            "id": "gov.cn",
+            "indegree": 151,
+            "color": "green"
+        },
+        {
+            "id": "dns.cn",
+            "indegree": 5,
+            "color": "green"
+        },
+        {
+            "id": "cn",
+            "indegree": 9,
+            "color": "green"
+        },
+        {
+            "id": "cernet.net",
+            "indegree": 5,
+            "color": "green"
+        },
+        {
+            "id": "net",
+            "indegree": 11,
+            "color": "green"
+        },
+        {
+            "id": "gtld-servers.net",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "nstld.com",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "com",
+            "indegree": 16,
+            "color": "green"
+        },
+        {
+            "id": ".",
+            "indegree": 9,
+            "color": "green"
+        },
+        {
+            "id": "alidns.com",
+            "indegree": 9,
+            "color": "green"
+        },
+        {
+            "id": "chinatax.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 113202537,
+            "clientIpCount": 1810443,
+            "subdomainCount": 7958
+        },
+        {
+            "id": "aliyun.com",
+            "indegree": 1,
+            "color": "green",
+            "requestCount": 2179112960,
+            "clientIpCount": 20493844,
+            "subdomainCount": 10753
+        },
+        {
+            "id": "hichina.com",
+            "indegree": 12,
+            "color": "green"
+        },
+        {
+            "id": "beian.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 16977739,
+            "clientIpCount": 1848111,
+            "subdomainCount": 141
+        },
+        {
+            "id": "cdns.cn",
+            "indegree": 21,
+            "color": "green"
+        },
+        {
+            "id": "www.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 19343194,
+            "clientIpCount": 1328709,
+            "subdomainCount": 114
+        },
+        {
+            "id": "gsxt.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 659865037,
+            "clientIpCount": 807108,
+            "subdomainCount": 544
+        },
+        {
+            "id": "122.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 8319161,
+            "clientIpCount": 1021928,
+            "subdomainCount": 894
+        },
+        {
+            "id": "sfn.cn",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "court.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 74864070,
+            "clientIpCount": 695198,
+            "subdomainCount": 13743
+        },
+        {
+            "id": "sfndns.cn",
+            "indegree": 22,
+            "color": "green"
+        },
+        {
+            "id": "gdgov.com",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "gd.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 35767873,
+            "clientIpCount": 826534,
+            "subdomainCount": 1702
+        },
+        {
+            "id": "cnipa.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 24897229,
+            "clientIpCount": 523045,
+            "subdomainCount": 534
+        },
+        {
+            "id": "creditchina.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 66854025,
+            "clientIpCount": 496544,
+            "subdomainCount": 238
+        },
+        {
+            "id": "zj.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 101205499,
+            "clientIpCount": 668923,
+            "subdomainCount": 4562
+        },
+        {
+            "id": "beijing.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 17409992,
+            "clientIpCount": 542801,
+            "subdomainCount": 3959
+        },
+        {
+            "id": "mohurd.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 15473946,
+            "clientIpCount": 502066,
+            "subdomainCount": 360
+        },
+        {
+            "id": "ah.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 6218754,
+            "clientIpCount": 422718,
+            "subdomainCount": 930
+        },
+        {
+            "id": "fujian.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 8685357,
+            "clientIpCount": 468911,
+            "subdomainCount": 3125
+        },
+        {
+            "id": "sz.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 10334858,
+            "clientIpCount": 427029,
+            "subdomainCount": 6223
+        },
+        {
+            "id": "zjzwfw.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 52048465,
+            "clientIpCount": 450605,
+            "subdomainCount": 2745
+        },
+        {
+            "id": "zdnscloud.biz",
+            "indegree": 9,
+            "color": "green"
+        },
+        {
+            "id": "guizhou.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 6306395,
+            "clientIpCount": 408372,
+            "subdomainCount": 909
+        },
+        {
+            "id": "zdnscloud.com",
+            "indegree": 9,
+            "color": "green"
+        },
+        {
+            "id": "zdnscloud.info",
+            "indegree": 9,
+            "color": "green"
+        },
+        {
+            "id": "zdnscloud.net",
+            "indegree": 9,
+            "color": "green"
+        },
+        {
+            "id": "info",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "info.afilias-nst.org",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "info.afilias-nst.info",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "afilias-nst.info",
+            "indegree": 3,
+            "color": "green"
+        },
+        {
+            "id": "dig.afilias-nst.info",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "afilias-nst.org",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "org",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "org.afilias-nst.info",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "org.afilias-nst.org",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "biz",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "gtld.biz",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "shanghai.gov.cn",
+            "indegree": 1,
+            "color": "green",
+            "requestCount": 1612393,
+            "clientIpCount": 172903,
+            "subdomainCount": 2836
+        },
+        {
+            "id": "sh.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 28221127,
+            "clientIpCount": 482397,
+            "subdomainCount": 18983
+        },
+        {
+            "id": "gdzwfw.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 63202739,
+            "clientIpCount": 392459,
+            "subdomainCount": 183
+        },
+        {
+            "id": "ec.com.cn",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "mofcom.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 9463176,
+            "clientIpCount": 409546,
+            "subdomainCount": 4223
+        },
+        {
+            "id": "com.cn",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "cq.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 5237344,
+            "clientIpCount": 421681,
+            "subdomainCount": 1527
+        },
+        {
+            "id": "miibeian.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 8216112,
+            "clientIpCount": 359568,
+            "subdomainCount": 32
+        },
+        {
+            "id": "cac.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1961283,
+            "clientIpCount": 374334,
+            "subdomainCount": 172
+        },
+        {
+            "id": "dnspod.net",
+            "indegree": 6,
+            "color": "green"
+        },
+        {
+            "id": "ndrc.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2551655,
+            "clientIpCount": 382909,
+            "subdomainCount": 393
+        },
+        {
+            "id": "dnsv2.com",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "dnsv2.net",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "hebei.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 4992553,
+            "clientIpCount": 364002,
+            "subdomainCount": 2105
+        },
+        {
+            "id": "hainan.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 4086671,
+            "clientIpCount": 349827,
+            "subdomainCount": 4850
+        },
+        {
+            "id": "nmpa.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 5147549,
+            "clientIpCount": 329363,
+            "subdomainCount": 274
+        },
+        {
+            "id": "jiangxi.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 16295995,
+            "clientIpCount": 357034,
+            "subdomainCount": 32685
+        },
+        {
+            "id": "hunan.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 11494471,
+            "clientIpCount": 351525,
+            "subdomainCount": 3466
+        },
+        {
+            "id": "gxzf.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 4533895,
+            "clientIpCount": 336945,
+            "subdomainCount": 84388
+        },
+        {
+            "id": "dnsv4.com",
+            "indegree": 4,
+            "color": "green"
+        },
+        {
+            "id": "henan.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 5534288,
+            "clientIpCount": 344098,
+            "subdomainCount": 1044
+        },
+        {
+            "id": "dnsv4.net",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "sdjnptt.net.cn",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "shandong.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 5040990,
+            "clientIpCount": 388041,
+            "subdomainCount": 4261
+        },
+        {
+            "id": "sdqdptt.net.cn",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "net.cn",
+            "indegree": 5,
+            "color": "green"
+        },
+        {
+            "id": "mohrss.gov.cn",
+            "indegree": 1,
+            "color": "green",
+            "requestCount": 3034463,
+            "clientIpCount": 469876,
+            "subdomainCount": 507
+        },
+        {
+            "id": "stats.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 5628014,
+            "clientIpCount": 359694,
+            "subdomainCount": 698
+        },
+        {
+            "id": "ccgp.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3487957,
+            "clientIpCount": 285788,
+            "subdomainCount": 212
+        },
+        {
+            "id": "mof.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3912530,
+            "clientIpCount": 350035,
+            "subdomainCount": 792
+        },
+        {
+            "id": "tj.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 5446318,
+            "clientIpCount": 378132,
+            "subdomainCount": 1686
+        },
+        {
+            "id": "customs.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3112539,
+            "clientIpCount": 303530,
+            "subdomainCount": 3824
+        },
+        {
+            "id": "kaifeng.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1233232,
+            "clientIpCount": 227762,
+            "subdomainCount": 94
+        },
+        {
+            "id": "cbirc.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 4112744,
+            "clientIpCount": 265042,
+            "subdomainCount": 159
+        },
+        {
+            "id": "miitbeian.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 6698667,
+            "clientIpCount": 258791,
+            "subdomainCount": 77
+        },
+        {
+            "id": "yn.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3400798,
+            "clientIpCount": 302027,
+            "subdomainCount": 2120
+        },
+        {
+            "id": "foshan.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3739347,
+            "clientIpCount": 235200,
+            "subdomainCount": 3700
+        },
+        {
+            "id": "hubei.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 9342153,
+            "clientIpCount": 275576,
+            "subdomainCount": 978
+        },
+        {
+            "id": "shaanxi.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 4485275,
+            "clientIpCount": 294089,
+            "subdomainCount": 2964
+        },
+        {
+            "id": "shanxi.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3311205,
+            "clientIpCount": 304769,
+            "subdomainCount": 2357
+        },
+        {
+            "id": "jiangsu.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3707748,
+            "clientIpCount": 295333,
+            "subdomainCount": 9401
+        },
+        {
+            "id": "jlccptt.net.cn",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "jl.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3126080,
+            "clientIpCount": 269810,
+            "subdomainCount": 654
+        },
+        {
+            "id": "jljlptt.net.cn",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "gjzwfw.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 6790170,
+            "clientIpCount": 288241,
+            "subdomainCount": 139
+        },
+        {
+            "id": "gzfirst.com",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "gz.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 4131151,
+            "clientIpCount": 227045,
+            "subdomainCount": 1870
+        },
+        {
+            "id": "cnolnic.com",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "mas.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1311220,
+            "clientIpCount": 211836,
+            "subdomainCount": 517
+        },
+        {
+            "id": "hefei.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2731170,
+            "clientIpCount": 196779,
+            "subdomainCount": 1464
+        },
+        {
+            "id": "sc.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2590280,
+            "clientIpCount": 290105,
+            "subdomainCount": 1157
+        },
+        {
+            "id": "most.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2055453,
+            "clientIpCount": 279839,
+            "subdomainCount": 283
+        },
+        {
+            "id": "bengbu.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1239797,
+            "clientIpCount": 180002,
+            "subdomainCount": 759
+        },
+        {
+            "id": "samr.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 7761749,
+            "clientIpCount": 298452,
+            "subdomainCount": 265
+        },
+        {
+            "id": "hlj.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3714132,
+            "clientIpCount": 254950,
+            "subdomainCount": 2193
+        },
+        {
+            "id": "mot.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1575837,
+            "clientIpCount": 269764,
+            "subdomainCount": 1044
+        },
+        {
+            "id": "gslzptt.net.cn",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "gansu.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2101174,
+            "clientIpCount": 254009,
+            "subdomainCount": 1764
+        },
+        {
+            "id": "moe.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1860803,
+            "clientIpCount": 286791,
+            "subdomainCount": 144
+        },
+        {
+            "id": "nhsa.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 7382611,
+            "clientIpCount": 270351,
+            "subdomainCount": 320
+        },
+        {
+            "id": "csrc.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 5445401,
+            "clientIpCount": 221240,
+            "subdomainCount": 293
+        },
+        {
+            "id": "fy.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1244098,
+            "clientIpCount": 191205,
+            "subdomainCount": 1115
+        },
+        {
+            "id": "fmprc.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1182750,
+            "clientIpCount": 240122,
+            "subdomainCount": 251
+        },
+        {
+            "id": "ccdi.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1296536,
+            "clientIpCount": 216790,
+            "subdomainCount": 75
+        },
+        {
+            "id": "fuzhou.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1342982,
+            "clientIpCount": 175935,
+            "subdomainCount": 1501
+        },
+        {
+            "id": "pbc.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3097080,
+            "clientIpCount": 249343,
+            "subdomainCount": 644
+        },
+        {
+            "id": "mee.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3917551,
+            "clientIpCount": 227421,
+            "subdomainCount": 1996
+        },
+        {
+            "id": "xincache.com",
+            "indegree": 6,
+            "color": "green"
+        },
+        {
+            "id": "nmg.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3176964,
+            "clientIpCount": 228263,
+            "subdomainCount": 474
+        },
+        {
+            "id": "win-b3a7gll8hv8",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "mnr.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1881906,
+            "clientIpCount": 231055,
+            "subdomainCount": 1294
+        },
+        {
+            "id": "qxqf.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 506212,
+            "clientIpCount": 169963,
+            "subdomainCount": 2
+        },
+        {
+            "id": "dg.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2278368,
+            "clientIpCount": 156797,
+            "subdomainCount": 1536
+        },
+        {
+            "id": "nhc.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1474720,
+            "clientIpCount": 220536,
+            "subdomainCount": 370
+        },
+        {
+            "id": "ddiaas.com",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "anqing.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1027546,
+            "clientIpCount": 140564,
+            "subdomainCount": 976
+        },
+        {
+            "id": "ccgp-neimenggu.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 940993,
+            "clientIpCount": 135622,
+            "subdomainCount": 4
+        },
+        {
+            "id": "mca.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1340321,
+            "clientIpCount": 216382,
+            "subdomainCount": 1157
+        },
+        {
+            "id": "localhost",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "hngp.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2391292,
+            "clientIpCount": 136849,
+            "subdomainCount": 917
+        },
+        {
+            "id": "mwr.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1957118,
+            "clientIpCount": 203588,
+            "subdomainCount": 502
+        },
+        {
+            "id": "chengdu.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3262796,
+            "clientIpCount": 158586,
+            "subdomainCount": 540
+        },
+        {
+            "id": "moa.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1338637,
+            "clientIpCount": 206344,
+            "subdomainCount": 956
+        },
+        {
+            "id": "agri.gov.cn",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "suzhou.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1655568,
+            "clientIpCount": 181170,
+            "subdomainCount": 5458
+        },
+        {
+            "id": "ggzy.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2919255,
+            "clientIpCount": 120690,
+            "subdomainCount": 11
+        },
+        {
+            "id": "wenzhou.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2475536,
+            "clientIpCount": 159105,
+            "subdomainCount": 738
+        },
+        {
+            "id": "sasac.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1568301,
+            "clientIpCount": 203570,
+            "subdomainCount": 274
+        },
+        {
+            "id": "mem.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1394650,
+            "clientIpCount": 199649,
+            "subdomainCount": 291
+        },
+        {
+            "id": "jszwfw.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3341469,
+            "clientIpCount": 183442,
+            "subdomainCount": 4477
+        },
+        {
+            "id": "ln.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1077952,
+            "clientIpCount": 189623,
+            "subdomainCount": 306
+        },
+        {
+            "id": "chizhou.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1170775,
+            "clientIpCount": 124990,
+            "subdomainCount": 465
+        },
+        {
+            "id": "sdc.org.cn",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "gjsy.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 6814829,
+            "clientIpCount": 93783,
+            "subdomainCount": 109
+        },
+        {
+            "id": "org.cn",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "lottery.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 444820,
+            "clientIpCount": 140115,
+            "subdomainCount": 192
+        },
+        {
+            "id": "audit.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 900278,
+            "clientIpCount": 160060,
+            "subdomainCount": 201
+        },
+        {
+            "id": "changzhou.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1377232,
+            "clientIpCount": 129758,
+            "subdomainCount": 2301
+        },
+        {
+            "id": "sanya.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 817656,
+            "clientIpCount": 127218,
+            "subdomainCount": 2864
+        },
+        {
+            "id": "cma.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 721904,
+            "clientIpCount": 167621,
+            "subdomainCount": 579
+        },
+        {
+            "id": "yongzhou.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 688698,
+            "clientIpCount": 145851,
+            "subdomainCount": 13525
+        },
+        {
+            "id": "nea.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1132123,
+            "clientIpCount": 169943,
+            "subdomainCount": 290
+        },
+        {
+            "id": "haaic.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 6637081,
+            "clientIpCount": 88617,
+            "subdomainCount": 65
+        },
+        {
+            "id": "mct.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1259961,
+            "clientIpCount": 173810,
+            "subdomainCount": 402
+        },
+        {
+            "id": "jxzwfww.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 738193,
+            "clientIpCount": 134241,
+            "subdomainCount": 5792
+        },
+        {
+            "id": "jfjb.com.cn",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "mod.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 730389,
+            "clientIpCount": 174442,
+            "subdomainCount": 154
+        },
+        {
+            "id": "tobacco.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2022855,
+            "clientIpCount": 155662,
+            "subdomainCount": 3863
+        },
+        {
+            "id": "12333.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 548707,
+            "clientIpCount": 119152,
+            "subdomainCount": 78
+        },
+        {
+            "id": "8hy.cn",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "nx.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2120600,
+            "clientIpCount": 166029,
+            "subdomainCount": 401
+        },
+        {
+            "id": "xinjiang.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1210907,
+            "clientIpCount": 180931,
+            "subdomainCount": 324
+        },
+        {
+            "id": "pingliang.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 756024,
+            "clientIpCount": 115634,
+            "subdomainCount": 142
+        },
+        {
+            "id": "zhengzhou.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 7388487,
+            "clientIpCount": 123102,
+            "subdomainCount": 518
+        },
+        {
+            "id": "ccgp-xinjiang.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 728615,
+            "clientIpCount": 99329,
+            "subdomainCount": 5
+        },
+        {
+            "id": "gdbs.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3400827,
+            "clientIpCount": 114219,
+            "subdomainCount": 46
+        },
+        {
+            "id": "mps.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 832594,
+            "clientIpCount": 155098,
+            "subdomainCount": 174
+        },
+        {
+            "id": "dezhou.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 681994,
+            "clientIpCount": 119059,
+            "subdomainCount": 2629
+        },
+        {
+            "id": "ccgp-jiangsu.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 471881,
+            "clientIpCount": 98322,
+            "subdomainCount": 6
+        },
+        {
+            "id": "hwclouds-dns.net",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "tianditu.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 5045917,
+            "clientIpCount": 108481,
+            "subdomainCount": 1014
+        },
+        {
+            "id": "hwclouds-dns.com",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "moj.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 926996,
+            "clientIpCount": 156339,
+            "subdomainCount": 205
+        },
+        {
+            "id": "ahxf.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1979395,
+            "clientIpCount": 85780,
+            "subdomainCount": 389
+        },
+        {
+            "id": "tianshui.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 417693,
+            "clientIpCount": 124954,
+            "subdomainCount": 1215
+        },
+        {
+            "id": "hangzhou.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1947389,
+            "clientIpCount": 113052,
+            "subdomainCount": 1985
+        },
+        {
+            "id": "qinghai.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1245404,
+            "clientIpCount": 141931,
+            "subdomainCount": 3514
+        },
+        {
+            "id": "nxzw.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 410821,
+            "clientIpCount": 100278,
+            "subdomainCount": 5
+        },
+        {
+            "id": "hd315.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 788834,
+            "clientIpCount": 97457,
+            "subdomainCount": 5
+        },
+        {
+            "id": "ccgp-shaanxi.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 341302,
+            "clientIpCount": 93036,
+            "subdomainCount": 21
+        },
+        {
+            "id": "hubeigp.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 175483,
+            "clientIpCount": 89697,
+            "subdomainCount": 149
+        },
+        {
+            "id": "jcy.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2076457,
+            "clientIpCount": 118923,
+            "subdomainCount": 8623
+        },
+        {
+            "id": "ccgp-shandong.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 947489,
+            "clientIpCount": 98381,
+            "subdomainCount": 2
+        },
+        {
+            "id": "lanzhou.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 864485,
+            "clientIpCount": 98772,
+            "subdomainCount": 729
+        },
+        {
+            "id": "rizhao.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 932804,
+            "clientIpCount": 112952,
+            "subdomainCount": 427
+        },
+        {
+            "id": "qingdao.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1439851,
+            "clientIpCount": 121900,
+            "subdomainCount": 1107
+        },
+        {
+            "id": "npc.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1024335,
+            "clientIpCount": 145338,
+            "subdomainCount": 247
+        },
+        {
+            "id": "fj.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 270271,
+            "clientIpCount": 101519,
+            "subdomainCount": 242
+        },
+        {
+            "id": "tzxm.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 367989,
+            "clientIpCount": 109875,
+            "subdomainCount": 194
+        },
+        {
+            "id": "cnmsn.net",
+            "indegree": 3,
+            "color": "green"
+        },
+        {
+            "id": "huizhou.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1493052,
+            "clientIpCount": 93793,
+            "subdomainCount": 9487
+        },
+        {
+            "id": "4everdns.com",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "bizcn.com",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "sport.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 801772,
+            "clientIpCount": 145859,
+            "subdomainCount": 247
+        },
+        {
+            "id": "xa.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2137668,
+            "clientIpCount": 111157,
+            "subdomainCount": 458
+        },
+        {
+            "id": "jlsfy.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 668150,
+            "clientIpCount": 79384,
+            "subdomainCount": 441
+        },
+        {
+            "id": "cwl.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 392674,
+            "clientIpCount": 91441,
+            "subdomainCount": 174
+        },
+        {
+            "id": "12348.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1777151,
+            "clientIpCount": 81398,
+            "subdomainCount": 238
+        },
+        {
+            "id": "win-dmmcq83n81g",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "changsha.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 3866998,
+            "clientIpCount": 93294,
+            "subdomainCount": 451
+        },
+        {
+            "id": "119.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 947258,
+            "clientIpCount": 81156,
+            "subdomainCount": 217
+        },
+        {
+            "id": "ahzwfw.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2260938,
+            "clientIpCount": 85684,
+            "subdomainCount": 1377
+        },
+        {
+            "id": "guiyang.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 2049202,
+            "clientIpCount": 96848,
+            "subdomainCount": 917
+        },
+        {
+            "id": "bjcourt.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 707584,
+            "clientIpCount": 79125,
+            "subdomainCount": 293
+        },
+        {
+            "id": "gzlps.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1818868,
+            "clientIpCount": 76172,
+            "subdomainCount": 170
+        },
+        {
+            "id": "bozhou.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 645279,
+            "clientIpCount": 81212,
+            "subdomainCount": 176
+        },
+        {
+            "id": "xjbt.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 726215,
+            "clientIpCount": 130691,
+            "subdomainCount": 275
+        },
+        {
+            "id": "wuhu.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 735672,
+            "clientIpCount": 102839,
+            "subdomainCount": 1312
+        },
+        {
+            "id": "jiasule.net",
+            "indegree": 3,
+            "color": "green"
+        },
+        {
+            "id": "linying.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 245451,
+            "clientIpCount": 86313,
+            "subdomainCount": 4
+        },
+        {
+            "id": "cyudun.net",
+            "indegree": 1,
+            "color": "green"
+        },
+        {
+            "id": "kangdns.com",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "365cyd.net",
+            "indegree": 2,
+            "color": "green"
+        },
+        {
+            "id": "haikou.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 573995,
+            "clientIpCount": 95525,
+            "subdomainCount": 4560
+        },
+        {
+            "id": "zunyi.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1931520,
+            "clientIpCount": 87865,
+            "subdomainCount": 199
+        },
+        {
+            "id": "gzaic.gov.cn",
+            "indegree": 0,
+            "color": "green",
+            "requestCount": 1046983,
+            "clientIpCount": 63029,
+            "subdomainCount": 1269
+        }
+    ],
+    "links": [
+        {
+            "source": "miit.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "gov.cn",
+            "target": "dns.cn",
+            "color": "green"
+        },
+        {
+            "source": "gov.cn",
+            "target": "cernet.net",
+            "color": "green"
+        },
+        {
+            "source": "gov.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "dns.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "cn",
+            "target": "cernet.net",
+            "color": "green"
+        },
+        {
+            "source": "cn",
+            "target": "dns.cn",
+            "color": "green"
+        },
+        {
+            "source": "cn",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "cernet.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "net",
+            "target": "gtld-servers.net",
+            "color": "green"
+        },
+        {
+            "source": "net",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "gtld-servers.net",
+            "target": "nstld.com",
+            "color": "green"
+        },
+        {
+            "source": "gtld-servers.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "nstld.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "com",
+            "target": "gtld-servers.net",
+            "color": "green"
+        },
+        {
+            "source": "com",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "alidns.com",
+            "target": "aliyun.com",
+            "color": "green"
+        },
+        {
+            "source": "alidns.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "chinatax.gov.cn",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "chinatax.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "aliyun.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "hichina.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "beian.gov.cn",
+            "target": "hichina.com",
+            "color": "green"
+        },
+        {
+            "source": "beian.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "cdns.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "www.gov.cn",
+            "target": "cdns.cn",
+            "color": "green"
+        },
+        {
+            "source": "www.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "gsxt.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "122.gov.cn",
+            "target": "hichina.com",
+            "color": "green"
+        },
+        {
+            "source": "122.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "sfn.cn",
+            "target": "sfndns.cn",
+            "color": "green"
+        },
+        {
+            "source": "sfn.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "court.gov.cn",
+            "target": "sfn.cn",
+            "color": "green"
+        },
+        {
+            "source": "court.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "sfndns.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "gdgov.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "gd.gov.cn",
+            "target": "gdgov.com",
+            "color": "green"
+        },
+        {
+            "source": "gd.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "cnipa.gov.cn",
+            "target": "sfndns.cn",
+            "color": "green"
+        },
+        {
+            "source": "cnipa.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "creditchina.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "zj.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "beijing.gov.cn",
+            "target": "cdns.cn",
+            "color": "green"
+        },
+        {
+            "source": "beijing.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "mohurd.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "ah.gov.cn",
+            "target": "sfndns.cn",
+            "color": "green"
+        },
+        {
+            "source": "ah.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "fujian.gov.cn",
+            "target": "sfndns.cn",
+            "color": "green"
+        },
+        {
+            "source": "fujian.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "sz.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "zjzwfw.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "zdnscloud.biz",
+            "target": "zdnscloud.com",
+            "color": "green"
+        },
+        {
+            "source": "zdnscloud.biz",
+            "target": "zdnscloud.info",
+            "color": "green"
+        },
+        {
+            "source": "zdnscloud.biz",
+            "target": "zdnscloud.net",
+            "color": "green"
+        },
+        {
+            "source": "zdnscloud.biz",
+            "target": "biz",
+            "color": "green"
+        },
+        {
+            "source": "guizhou.gov.cn",
+            "target": "zdnscloud.biz",
+            "color": "green"
+        },
+        {
+            "source": "guizhou.gov.cn",
+            "target": "zdnscloud.com",
+            "color": "green"
+        },
+        {
+            "source": "guizhou.gov.cn",
+            "target": "zdnscloud.info",
+            "color": "green"
+        },
+        {
+            "source": "guizhou.gov.cn",
+            "target": "zdnscloud.net",
+            "color": "green"
+        },
+        {
+            "source": "guizhou.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "zdnscloud.com",
+            "target": "zdnscloud.biz",
+            "color": "green"
+        },
+        {
+            "source": "zdnscloud.com",
+            "target": "zdnscloud.info",
+            "color": "green"
+        },
+        {
+            "source": "zdnscloud.com",
+            "target": "zdnscloud.net",
+            "color": "green"
+        },
+        {
+            "source": "zdnscloud.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "zdnscloud.info",
+            "target": "zdnscloud.biz",
+            "color": "green"
+        },
+        {
+            "source": "zdnscloud.info",
+            "target": "zdnscloud.com",
+            "color": "green"
+        },
+        {
+            "source": "zdnscloud.info",
+            "target": "zdnscloud.net",
+            "color": "green"
+        },
+        {
+            "source": "zdnscloud.info",
+            "target": "info",
+            "color": "green"
+        },
+        {
+            "source": "zdnscloud.net",
+            "target": "zdnscloud.biz",
+            "color": "green"
+        },
+        {
+            "source": "zdnscloud.net",
+            "target": "zdnscloud.com",
+            "color": "green"
+        },
+        {
+            "source": "zdnscloud.net",
+            "target": "zdnscloud.info",
+            "color": "green"
+        },
+        {
+            "source": "zdnscloud.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "info",
+            "target": "info.afilias-nst.org",
+            "color": "green"
+        },
+        {
+            "source": "info",
+            "target": "info.afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "info",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "info.afilias-nst.org",
+            "target": "info.afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "info.afilias-nst.org",
+            "target": "afilias-nst.org",
+            "color": "green"
+        },
+        {
+            "source": "info.afilias-nst.info",
+            "target": "info.afilias-nst.org",
+            "color": "green"
+        },
+        {
+            "source": "info.afilias-nst.info",
+            "target": "afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "afilias-nst.info",
+            "target": "dig.afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "afilias-nst.info",
+            "target": "info",
+            "color": "green"
+        },
+        {
+            "source": "dig.afilias-nst.info",
+            "target": "afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "afilias-nst.org",
+            "target": "dig.afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "afilias-nst.org",
+            "target": "org",
+            "color": "green"
+        },
+        {
+            "source": "org",
+            "target": "org.afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "org",
+            "target": "org.afilias-nst.org",
+            "color": "green"
+        },
+        {
+            "source": "org",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "org.afilias-nst.info",
+            "target": "org.afilias-nst.org",
+            "color": "green"
+        },
+        {
+            "source": "org.afilias-nst.info",
+            "target": "afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "org.afilias-nst.org",
+            "target": "org.afilias-nst.info",
+            "color": "green"
+        },
+        {
+            "source": "org.afilias-nst.org",
+            "target": "afilias-nst.org",
+            "color": "green"
+        },
+        {
+            "source": "biz",
+            "target": "gtld.biz",
+            "color": "green"
+        },
+        {
+            "source": "biz",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "gtld.biz",
+            "target": "biz",
+            "color": "green"
+        },
+        {
+            "source": "shanghai.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "sh.gov.cn",
+            "target": "shanghai.gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "sh.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "gdzwfw.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "ec.com.cn",
+            "target": "com.cn",
+            "color": "green"
+        },
+        {
+            "source": "mofcom.gov.cn",
+            "target": "ec.com.cn",
+            "color": "green"
+        },
+        {
+            "source": "mofcom.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "com.cn",
+            "target": "dns.cn",
+            "color": "green"
+        },
+        {
+            "source": "com.cn",
+            "target": "cernet.net",
+            "color": "green"
+        },
+        {
+            "source": "com.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "cq.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "miibeian.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "cac.gov.cn",
+            "target": "cdns.cn",
+            "color": "green"
+        },
+        {
+            "source": "cac.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "dnspod.net",
+            "target": "dnsv2.com",
+            "color": "green"
+        },
+        {
+            "source": "dnspod.net",
+            "target": "dnsv2.net",
+            "color": "green"
+        },
+        {
+            "source": "dnspod.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "ndrc.gov.cn",
+            "target": "dnspod.net",
+            "color": "green"
+        },
+        {
+            "source": "ndrc.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "dnsv2.com",
+            "target": "dnsv2.net",
+            "color": "green"
+        },
+        {
+            "source": "dnsv2.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "dnsv2.net",
+            "target": "dnsv2.com",
+            "color": "green"
+        },
+        {
+            "source": "dnsv2.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "hebei.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "hainan.gov.cn",
+            "target": "zdnscloud.biz",
+            "color": "green"
+        },
+        {
+            "source": "hainan.gov.cn",
+            "target": "zdnscloud.com",
+            "color": "green"
+        },
+        {
+            "source": "hainan.gov.cn",
+            "target": "zdnscloud.info",
+            "color": "green"
+        },
+        {
+            "source": "hainan.gov.cn",
+            "target": "zdnscloud.net",
+            "color": "green"
+        },
+        {
+            "source": "hainan.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "nmpa.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "jiangxi.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "hunan.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "gxzf.gov.cn",
+            "target": "dnspod.net",
+            "color": "green"
+        },
+        {
+            "source": "gxzf.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "dnsv4.com",
+            "target": "dnsv4.net",
+            "color": "green"
+        },
+        {
+            "source": "dnsv4.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "henan.gov.cn",
+            "target": "dnsv4.com",
+            "color": "green"
+        },
+        {
+            "source": "henan.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "dnsv4.net",
+            "target": "dnsv4.com",
+            "color": "green"
+        },
+        {
+            "source": "dnsv4.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "sdjnptt.net.cn",
+            "target": "sdqdptt.net.cn",
+            "color": "green"
+        },
+        {
+            "source": "sdjnptt.net.cn",
+            "target": "net.cn",
+            "color": "green"
+        },
+        {
+            "source": "shandong.gov.cn",
+            "target": "sdjnptt.net.cn",
+            "color": "green"
+        },
+        {
+            "source": "shandong.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "sdqdptt.net.cn",
+            "target": "sdjnptt.net.cn",
+            "color": "green"
+        },
+        {
+            "source": "sdqdptt.net.cn",
+            "target": "net.cn",
+            "color": "green"
+        },
+        {
+            "source": "net.cn",
+            "target": "dns.cn",
+            "color": "green"
+        },
+        {
+            "source": "net.cn",
+            "target": "cernet.net",
+            "color": "green"
+        },
+        {
+            "source": "net.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "mohrss.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "stats.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "ccgp.gov.cn",
+            "target": "cdns.cn",
+            "color": "green"
+        },
+        {
+            "source": "ccgp.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "mof.gov.cn",
+            "target": "cdns.cn",
+            "color": "green"
+        },
+        {
+            "source": "mof.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "tj.gov.cn",
+            "target": "sfndns.cn",
+            "color": "green"
+        },
+        {
+            "source": "tj.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "customs.gov.cn",
+            "target": "zdnscloud.biz",
+            "color": "green"
+        },
+        {
+            "source": "customs.gov.cn",
+            "target": "zdnscloud.com",
+            "color": "green"
+        },
+        {
+            "source": "customs.gov.cn",
+            "target": "zdnscloud.info",
+            "color": "green"
+        },
+        {
+            "source": "customs.gov.cn",
+            "target": "zdnscloud.net",
+            "color": "green"
+        },
+        {
+            "source": "customs.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "kaifeng.gov.cn",
+            "target": "sfn.cn",
+            "color": "green"
+        },
+        {
+            "source": "kaifeng.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "cbirc.gov.cn",
+            "target": "sfndns.cn",
+            "color": "green"
+        },
+        {
+            "source": "cbirc.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "miitbeian.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "yn.gov.cn",
+            "target": "dnsv4.com",
+            "color": "green"
+        },
+        {
+            "source": "yn.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "foshan.gov.cn",
+            "target": "sfndns.cn",
+            "color": "green"
+        },
+        {
+            "source": "foshan.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "hubei.gov.cn",
+            "target": "dnspod.net",
+            "color": "green"
+        },
+        {
+            "source": "hubei.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "shaanxi.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "shanxi.gov.cn",
+            "target": "sfndns.cn",
+            "color": "green"
+        },
+        {
+            "source": "shanxi.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "jiangsu.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "jlccptt.net.cn",
+            "target": "jljlptt.net.cn",
+            "color": "green"
+        },
+        {
+            "source": "jlccptt.net.cn",
+            "target": "net.cn",
+            "color": "green"
+        },
+        {
+            "source": "jl.gov.cn",
+            "target": "jlccptt.net.cn",
+            "color": "green"
+        },
+        {
+            "source": "jl.gov.cn",
+            "target": "jljlptt.net.cn",
+            "color": "green"
+        },
+        {
+            "source": "jl.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "jljlptt.net.cn",
+            "target": "jlccptt.net.cn",
+            "color": "green"
+        },
+        {
+            "source": "jljlptt.net.cn",
+            "target": "net.cn",
+            "color": "green"
+        },
+        {
+            "source": "gjzwfw.gov.cn",
+            "target": "cdns.cn",
+            "color": "green"
+        },
+        {
+            "source": "gjzwfw.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "gzfirst.com",
+            "target": "cnolnic.com",
+            "color": "green"
+        },
+        {
+            "source": "gzfirst.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "gz.gov.cn",
+            "target": "gzfirst.com",
+            "color": "green"
+        },
+        {
+            "source": "gz.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "cnolnic.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "mas.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "hefei.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "sc.gov.cn",
+            "target": "hichina.com",
+            "color": "green"
+        },
+        {
+            "source": "sc.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "most.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "bengbu.gov.cn",
+            "target": "hichina.com",
+            "color": "green"
+        },
+        {
+            "source": "bengbu.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "samr.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "hlj.gov.cn",
+            "target": "sfndns.cn",
+            "color": "green"
+        },
+        {
+            "source": "hlj.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "mot.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "gslzptt.net.cn",
+            "target": "net.cn",
+            "color": "green"
+        },
+        {
+            "source": "gansu.gov.cn",
+            "target": "gslzptt.net.cn",
+            "color": "green"
+        },
+        {
+            "source": "gansu.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "moe.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "nhsa.gov.cn",
+            "target": "cdns.cn",
+            "color": "green"
+        },
+        {
+            "source": "nhsa.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "csrc.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "fy.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "fmprc.gov.cn",
+            "target": "cdns.cn",
+            "color": "green"
+        },
+        {
+            "source": "fmprc.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "ccdi.gov.cn",
+            "target": "cdns.cn",
+            "color": "green"
+        },
+        {
+            "source": "ccdi.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "fuzhou.gov.cn",
+            "target": "sfndns.cn",
+            "color": "green"
+        },
+        {
+            "source": "fuzhou.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "pbc.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "mee.gov.cn",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "mee.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "xincache.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "nmg.gov.cn",
+            "target": "xincache.com",
+            "color": "green"
+        },
+        {
+            "source": "nmg.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "win-b3a7gll8hv8",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "mnr.gov.cn",
+            "target": "win-b3a7gll8hv8",
+            "color": "green"
+        },
+        {
+            "source": "mnr.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "qxqf.gov.cn",
+            "target": "xincache.com",
+            "color": "green"
+        },
+        {
+            "source": "qxqf.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "dg.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "nhc.gov.cn",
+            "target": "cdns.cn",
+            "color": "green"
+        },
+        {
+            "source": "nhc.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "ddiaas.com",
+            "target": "dnspod.net",
+            "color": "green"
+        },
+        {
+            "source": "ddiaas.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "anqing.gov.cn",
+            "target": "ddiaas.com",
+            "color": "green"
+        },
+        {
+            "source": "anqing.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "ccgp-neimenggu.gov.cn",
+            "target": "cdns.cn",
+            "color": "green"
+        },
+        {
+            "source": "ccgp-neimenggu.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "mca.gov.cn",
+            "target": "localhost",
+            "color": "green"
+        },
+        {
+            "source": "mca.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "localhost",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "hngp.gov.cn",
+            "target": "xincache.com",
+            "color": "green"
+        },
+        {
+            "source": "hngp.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "mwr.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "chengdu.gov.cn",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "chengdu.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "moa.gov.cn",
+            "target": "agri.gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "moa.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "agri.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "suzhou.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "ggzy.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "wenzhou.gov.cn",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "wenzhou.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "sasac.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "mem.gov.cn",
+            "target": "cdns.cn",
+            "color": "green"
+        },
+        {
+            "source": "mem.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "jszwfw.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "ln.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "chizhou.gov.cn",
+            "target": "sfndns.cn",
+            "color": "green"
+        },
+        {
+            "source": "chizhou.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "sdc.org.cn",
+            "target": "org.cn",
+            "color": "green"
+        },
+        {
+            "source": "gjsy.gov.cn",
+            "target": "sdc.org.cn",
+            "color": "green"
+        },
+        {
+            "source": "gjsy.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "org.cn",
+            "target": "dns.cn",
+            "color": "green"
+        },
+        {
+            "source": "org.cn",
+            "target": "cernet.net",
+            "color": "green"
+        },
+        {
+            "source": "org.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "lottery.gov.cn",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "lottery.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "audit.gov.cn",
+            "target": "sfndns.cn",
+            "color": "green"
+        },
+        {
+            "source": "audit.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "changzhou.gov.cn",
+            "target": "hichina.com",
+            "color": "green"
+        },
+        {
+            "source": "changzhou.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "sanya.gov.cn",
+            "target": "dnsv4.com",
+            "color": "green"
+        },
+        {
+            "source": "sanya.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "cma.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "yongzhou.gov.cn",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "yongzhou.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "nea.gov.cn",
+            "target": "hichina.com",
+            "color": "green"
+        },
+        {
+            "source": "nea.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "haaic.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "mct.gov.cn",
+            "target": "cdns.cn",
+            "color": "green"
+        },
+        {
+            "source": "mct.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "jxzwfww.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "jfjb.com.cn",
+            "target": "cdns.cn",
+            "color": "green"
+        },
+        {
+            "source": "jfjb.com.cn",
+            "target": "com.cn",
+            "color": "green"
+        },
+        {
+            "source": "mod.gov.cn",
+            "target": "jfjb.com.cn",
+            "color": "green"
+        },
+        {
+            "source": "mod.gov.cn",
+            "target": "cdns.cn",
+            "color": "green"
+        },
+        {
+            "source": "mod.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "tobacco.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "12333.gov.cn",
+            "target": "mohrss.gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "12333.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "8hy.cn",
+            "target": "cn",
+            "color": "green"
+        },
+        {
+            "source": "nx.gov.cn",
+            "target": "8hy.cn",
+            "color": "green"
+        },
+        {
+            "source": "nx.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "xinjiang.gov.cn",
+            "target": "sfndns.cn",
+            "color": "green"
+        },
+        {
+            "source": "xinjiang.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "pingliang.gov.cn",
+            "target": "hichina.com",
+            "color": "green"
+        },
+        {
+            "source": "pingliang.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "zhengzhou.gov.cn",
+            "target": "hichina.com",
+            "color": "green"
+        },
+        {
+            "source": "zhengzhou.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "ccgp-xinjiang.gov.cn",
+            "target": "cdns.cn",
+            "color": "green"
+        },
+        {
+            "source": "ccgp-xinjiang.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "gdbs.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "mps.gov.cn",
+            "target": "sfndns.cn",
+            "color": "green"
+        },
+        {
+            "source": "mps.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "dezhou.gov.cn",
+            "target": "sfndns.cn",
+            "color": "green"
+        },
+        {
+            "source": "dezhou.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "ccgp-jiangsu.gov.cn",
+            "target": "cdns.cn",
+            "color": "green"
+        },
+        {
+            "source": "ccgp-jiangsu.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "hwclouds-dns.net",
+            "target": "hwclouds-dns.com",
+            "color": "green"
+        },
+        {
+            "source": "hwclouds-dns.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "tianditu.gov.cn",
+            "target": "hwclouds-dns.net",
+            "color": "green"
+        },
+        {
+            "source": "tianditu.gov.cn",
+            "target": "hwclouds-dns.com",
+            "color": "green"
+        },
+        {
+            "source": "tianditu.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "hwclouds-dns.com",
+            "target": "hwclouds-dns.net",
+            "color": "green"
+        },
+        {
+            "source": "hwclouds-dns.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "moj.gov.cn",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "moj.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "ahxf.gov.cn",
+            "target": "dnspod.net",
+            "color": "green"
+        },
+        {
+            "source": "ahxf.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "tianshui.gov.cn",
+            "target": "sfndns.cn",
+            "color": "green"
+        },
+        {
+            "source": "tianshui.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "hangzhou.gov.cn",
+            "target": "sfndns.cn",
+            "color": "green"
+        },
+        {
+            "source": "hangzhou.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "qinghai.gov.cn",
+            "target": "cnolnic.com",
+            "color": "green"
+        },
+        {
+            "source": "qinghai.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "nxzw.gov.cn",
+            "target": "hichina.com",
+            "color": "green"
+        },
+        {
+            "source": "nxzw.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "hd315.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "ccgp-shaanxi.gov.cn",
+            "target": "cdns.cn",
+            "color": "green"
+        },
+        {
+            "source": "ccgp-shaanxi.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "hubeigp.gov.cn",
+            "target": "xincache.com",
+            "color": "green"
+        },
+        {
+            "source": "hubeigp.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "jcy.gov.cn",
+            "target": "cdns.cn",
+            "color": "green"
+        },
+        {
+            "source": "jcy.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "ccgp-shandong.gov.cn",
+            "target": "cdns.cn",
+            "color": "green"
+        },
+        {
+            "source": "ccgp-shandong.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "lanzhou.gov.cn",
+            "target": "xincache.com",
+            "color": "green"
+        },
+        {
+            "source": "lanzhou.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "rizhao.gov.cn",
+            "target": "dnspod.net",
+            "color": "green"
+        },
+        {
+            "source": "rizhao.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "qingdao.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "npc.gov.cn",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "npc.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "fj.gov.cn",
+            "target": "sfndns.cn",
+            "color": "green"
+        },
+        {
+            "source": "fj.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "tzxm.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "cnmsn.net",
+            "target": "4everdns.com",
+            "color": "green"
+        },
+        {
+            "source": "cnmsn.net",
+            "target": "bizcn.com",
+            "color": "green"
+        },
+        {
+            "source": "cnmsn.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "huizhou.gov.cn",
+            "target": "cnmsn.net",
+            "color": "green"
+        },
+        {
+            "source": "huizhou.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "4everdns.com",
+            "target": "bizcn.com",
+            "color": "green"
+        },
+        {
+            "source": "4everdns.com",
+            "target": "cnmsn.net",
+            "color": "green"
+        },
+        {
+            "source": "4everdns.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "bizcn.com",
+            "target": "cnmsn.net",
+            "color": "green"
+        },
+        {
+            "source": "bizcn.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "sport.gov.cn",
+            "target": "cdns.cn",
+            "color": "green"
+        },
+        {
+            "source": "sport.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "xa.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "jlsfy.gov.cn",
+            "target": "xincache.com",
+            "color": "green"
+        },
+        {
+            "source": "jlsfy.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "cwl.gov.cn",
+            "target": "hichina.com",
+            "color": "green"
+        },
+        {
+            "source": "cwl.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "12348.gov.cn",
+            "target": "hichina.com",
+            "color": "green"
+        },
+        {
+            "source": "12348.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "win-dmmcq83n81g",
+            "target": ".",
+            "color": "green"
+        },
+        {
+            "source": "changsha.gov.cn",
+            "target": "win-dmmcq83n81g",
+            "color": "green"
+        },
+        {
+            "source": "changsha.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "119.gov.cn",
+            "target": "sfndns.cn",
+            "color": "green"
+        },
+        {
+            "source": "119.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "ahzwfw.gov.cn",
+            "target": "sfndns.cn",
+            "color": "green"
+        },
+        {
+            "source": "ahzwfw.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "guiyang.gov.cn",
+            "target": "zdnscloud.biz",
+            "color": "green"
+        },
+        {
+            "source": "guiyang.gov.cn",
+            "target": "zdnscloud.com",
+            "color": "green"
+        },
+        {
+            "source": "guiyang.gov.cn",
+            "target": "zdnscloud.info",
+            "color": "green"
+        },
+        {
+            "source": "guiyang.gov.cn",
+            "target": "zdnscloud.net",
+            "color": "green"
+        },
+        {
+            "source": "guiyang.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "bjcourt.gov.cn",
+            "target": "alidns.com",
+            "color": "green"
+        },
+        {
+            "source": "bjcourt.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "gzlps.gov.cn",
+            "target": "zdnscloud.biz",
+            "color": "green"
+        },
+        {
+            "source": "gzlps.gov.cn",
+            "target": "zdnscloud.com",
+            "color": "green"
+        },
+        {
+            "source": "gzlps.gov.cn",
+            "target": "zdnscloud.info",
+            "color": "green"
+        },
+        {
+            "source": "gzlps.gov.cn",
+            "target": "zdnscloud.net",
+            "color": "green"
+        },
+        {
+            "source": "gzlps.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "bozhou.gov.cn",
+            "target": "sfndns.cn",
+            "color": "green"
+        },
+        {
+            "source": "bozhou.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "xjbt.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "wuhu.gov.cn",
+            "target": "sfndns.cn",
+            "color": "green"
+        },
+        {
+            "source": "wuhu.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "jiasule.net",
+            "target": "cyudun.net",
+            "color": "green"
+        },
+        {
+            "source": "jiasule.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "linying.gov.cn",
+            "target": "jiasule.net",
+            "color": "green"
+        },
+        {
+            "source": "linying.gov.cn",
+            "target": "kangdns.com",
+            "color": "green"
+        },
+        {
+            "source": "linying.gov.cn",
+            "target": "365cyd.net",
+            "color": "green"
+        },
+        {
+            "source": "linying.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "cyudun.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "kangdns.com",
+            "target": "jiasule.net",
+            "color": "green"
+        },
+        {
+            "source": "kangdns.com",
+            "target": "365cyd.net",
+            "color": "green"
+        },
+        {
+            "source": "kangdns.com",
+            "target": "com",
+            "color": "green"
+        },
+        {
+            "source": "365cyd.net",
+            "target": "kangdns.com",
+            "color": "green"
+        },
+        {
+            "source": "365cyd.net",
+            "target": "jiasule.net",
+            "color": "green"
+        },
+        {
+            "source": "365cyd.net",
+            "target": "net",
+            "color": "green"
+        },
+        {
+            "source": "haikou.gov.cn",
+            "target": "hichina.com",
+            "color": "green"
+        },
+        {
+            "source": "haikou.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "zunyi.gov.cn",
+            "target": "zdnscloud.biz",
+            "color": "green"
+        },
+        {
+            "source": "zunyi.gov.cn",
+            "target": "zdnscloud.com",
+            "color": "green"
+        },
+        {
+            "source": "zunyi.gov.cn",
+            "target": "zdnscloud.info",
+            "color": "green"
+        },
+        {
+            "source": "zunyi.gov.cn",
+            "target": "zdnscloud.net",
+            "color": "green"
+        },
+        {
+            "source": "zunyi.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        },
+        {
+            "source": "gzaic.gov.cn",
+            "target": "8hy.cn",
+            "color": "green"
+        },
+        {
+            "source": "gzaic.gov.cn",
+            "target": "gov.cn",
+            "color": "green"
+        }
+    ]
+}

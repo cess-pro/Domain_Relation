@@ -1,0 +1,133 @@
+{
+    "nodes": [
+        {
+            "id": "tsinghua.edu.cn",  //点的名称
+            "indegree": 1,              //点的入度，越大点大小越大，值最小为0
+            "requestCount": 6148725,    //全部5个数据需要展现在点击之后弹出的小窗口中；测试数据，其他点只有2个类型的数据。
+            "clientIpCount": 270641,
+            "subdomainCount": 19314
+        },
+        {
+            "id": "edu.cn",
+            "indegree": 2
+        },
+        {
+            "id": "cernet.net",
+            "indegree": 4
+        },
+        {
+            "id": "net",
+            "indegree": 2
+        },
+        {
+            "id": "gtld-servers.net",
+            "indegree": 2
+        },
+        {
+            "id": "nstld.com",
+            "indegree": 2
+        },
+        {
+            "id": "com",
+            "indegree": 1
+        },
+        {
+            "id": ".",
+            "indegree": 3
+        },
+        {
+            "id": "cn",
+            "indegree": 2
+        },
+        {
+            "id": "dns.cn",
+            "indegree": 2
+        }
+    ],
+    "links": [                          //边的信息，有向边，从哪个点指向哪个点
+        {
+            "source": "tsinghua.edu.cn",
+            "target": "edu.cn"
+        },
+        {
+            "source": "tsinghua.edu.cn",
+            "target": "tsinghua.edu.cn"
+        },
+        {
+            "source": "tsinghua.edu.cn",
+            "target": "cernet.net"
+        },
+        {
+            "source": "edu.cn",
+            "target": "cernet.net"
+        },
+        {
+            "source": "edu.cn",
+            "target": "edu.cn"
+        },
+        {
+            "source": "edu.cn",
+            "target": "cn"
+        },
+        {
+            "source": "cernet.net",
+            "target": "cernet.net"
+        },
+        {
+            "source": "cernet.net",
+            "target": "net"
+        },
+        {
+            "source": "net",
+            "target": "gtld-servers.net"
+        },
+        {
+            "source": "net",
+            "target": "."
+        },
+        {
+            "source": "gtld-servers.net",
+            "target": "nstld.com"
+        },
+        {
+            "source": "gtld-servers.net",
+            "target": "net"
+        },
+        {
+            "source": "nstld.com",
+            "target": "nstld.com"
+        },
+        {
+            "source": "nstld.com",
+            "target": "com"
+        },
+        {
+            "source": "com",
+            "target": "gtld-servers.net"
+        },
+        {
+            "source": "com",
+            "target": "."
+        },
+        {
+            "source": "cn",
+            "target": "cernet.net"
+        },
+        {
+            "source": "cn",
+            "target": "dns.cn"
+        },
+        {
+            "source": "cn",
+            "target": "."
+        },
+        {
+            "source": "dns.cn",
+            "target": "dns.cn"
+        },
+        {
+            "source": "dns.cn",
+            "target": "cn"
+        }
+    ]
+}
