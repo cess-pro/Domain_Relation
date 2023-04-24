@@ -4,12 +4,12 @@
             "requestCount": 43813154,
             "clientIpCount": 3219618,
             "subdomainCount": 14790,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "sjtu.edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "indegree": 161,
             "id": "edu.cn"
         },
@@ -39,7 +39,7 @@
             "id": "com"
         },
         {
-            "color": "red",
+            "color": "green",
             "indegree": 4,
             "id": "."
         },
@@ -54,7 +54,7 @@
             "id": "dns.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "indegree": 1,
             "id": "nic.edu.cn"
         },
@@ -62,7 +62,7 @@
             "requestCount": 1288470328,
             "clientIpCount": 4054401,
             "subdomainCount": 62,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "time.edu.cn"
         },
@@ -78,7 +78,7 @@
             "requestCount": 4520560,
             "clientIpCount": 227850,
             "subdomainCount": 3148,
-            "color": "green",
+            "color": "red",
             "indegree": 1,
             "id": "neu.edu.cn"
         },
@@ -86,7 +86,7 @@
             "requestCount": 7633584,
             "clientIpCount": 273493,
             "subdomainCount": 855,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "neea.edu.cn"
         },
@@ -94,7 +94,7 @@
             "requestCount": 1406393,
             "clientIpCount": 268245,
             "subdomainCount": 596,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "moe.edu.cn"
         },
@@ -102,7 +102,7 @@
             "requestCount": 1128202,
             "clientIpCount": 178677,
             "subdomainCount": 156,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "neu6.edu.cn"
         },
@@ -110,7 +110,7 @@
             "requestCount": 4631049,
             "clientIpCount": 150684,
             "subdomainCount": 10520,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "ustc.edu.cn"
         },
@@ -131,7 +131,7 @@
             "requestCount": 41405454,
             "clientIpCount": 97728,
             "subdomainCount": 7696,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "fudan.edu.cn"
         },
@@ -139,7 +139,7 @@
             "requestCount": 3984998,
             "clientIpCount": 66670,
             "subdomainCount": 620,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "njnu.edu.cn"
         },
@@ -147,7 +147,7 @@
             "requestCount": 1901534,
             "clientIpCount": 104182,
             "subdomainCount": 19342,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "zju.edu.cn"
         },
@@ -155,7 +155,7 @@
             "requestCount": 1451430,
             "clientIpCount": 87280,
             "subdomainCount": 85836,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "pku.edu.cn"
         },
@@ -163,7 +163,7 @@
             "requestCount": 618983,
             "clientIpCount": 57669,
             "subdomainCount": 2480,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "buaa.edu.cn"
         },
@@ -171,7 +171,7 @@
             "requestCount": 9332207,
             "clientIpCount": 66365,
             "subdomainCount": 78628,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "nju.edu.cn"
         },
@@ -212,7 +212,7 @@
             "requestCount": 832050,
             "clientIpCount": 54835,
             "subdomainCount": 461,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "bfsu.edu.cn"
         },
@@ -220,7 +220,7 @@
             "requestCount": 336309,
             "clientIpCount": 53709,
             "subdomainCount": 2360,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "dlut.edu.cn"
         },
@@ -228,7 +228,7 @@
             "requestCount": 889963,
             "clientIpCount": 52525,
             "subdomainCount": 1296,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "cqu.edu.cn"
         },
@@ -236,7 +236,7 @@
             "requestCount": 1232904,
             "clientIpCount": 40263,
             "subdomainCount": 12,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "synet.edu.cn"
         },
@@ -244,7 +244,7 @@
             "requestCount": 511310,
             "clientIpCount": 53733,
             "subdomainCount": 1690,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "bjtu.edu.cn"
         },
@@ -252,7 +252,7 @@
             "requestCount": 597735,
             "clientIpCount": 49001,
             "subdomainCount": 31336,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "nwpu.edu.cn"
         },
@@ -260,7 +260,7 @@
             "requestCount": 332867,
             "clientIpCount": 33388,
             "subdomainCount": 277,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "ahpu.edu.cn"
         },
@@ -268,7 +268,7 @@
             "requestCount": 63836,
             "clientIpCount": 38224,
             "subdomainCount": 154,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "cdivtc.edu.cn"
         },
@@ -276,7 +276,7 @@
             "requestCount": 1123802,
             "clientIpCount": 50205,
             "subdomainCount": 1326,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "lzu.edu.cn"
         },
@@ -284,7 +284,7 @@
             "requestCount": 287931,
             "clientIpCount": 30816,
             "subdomainCount": 317,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "aiit.edu.cn"
         },
@@ -292,7 +292,7 @@
             "requestCount": 504982,
             "clientIpCount": 33709,
             "subdomainCount": 2537,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "chd.edu.cn"
         },
@@ -300,7 +300,7 @@
             "requestCount": 1345580,
             "clientIpCount": 35577,
             "subdomainCount": 3384,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "uestc.edu.cn"
         },
@@ -308,7 +308,7 @@
             "requestCount": 1300664,
             "clientIpCount": 39365,
             "subdomainCount": 1362,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "fafu.edu.cn"
         },
@@ -316,7 +316,7 @@
             "requestCount": 870181,
             "clientIpCount": 39132,
             "subdomainCount": 2809,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "cumt.edu.cn"
         },
@@ -324,12 +324,12 @@
             "requestCount": 6570004,
             "clientIpCount": 31694,
             "subdomainCount": 3250,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "hnnu.edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "indegree": 1,
             "id": "fjtu.edu.cn"
         },
@@ -337,7 +337,7 @@
             "requestCount": 1664470,
             "clientIpCount": 34905,
             "subdomainCount": 3263,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "fjnu.edu.cn"
         },
@@ -345,12 +345,12 @@
             "requestCount": 249258,
             "clientIpCount": 32123,
             "subdomainCount": 685,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "qau.edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "indegree": 1,
             "id": "buptnet.edu.cn"
         },
@@ -358,7 +358,7 @@
             "requestCount": 923055,
             "clientIpCount": 37372,
             "subdomainCount": 630,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "bupt.edu.cn"
         },
@@ -366,7 +366,7 @@
             "requestCount": 759305,
             "clientIpCount": 40204,
             "subdomainCount": 2783,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "jlu.edu.cn"
         },
@@ -374,7 +374,7 @@
             "requestCount": 1158181,
             "clientIpCount": 49336,
             "subdomainCount": 121793,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "whu.edu.cn"
         },
@@ -382,7 +382,7 @@
             "requestCount": 1499572,
             "clientIpCount": 33062,
             "subdomainCount": 70165,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "nankai.edu.cn"
         },
@@ -390,7 +390,7 @@
             "requestCount": 680096,
             "clientIpCount": 32613,
             "subdomainCount": 6924,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "csu.edu.cn"
         },
@@ -398,7 +398,7 @@
             "requestCount": 606824,
             "clientIpCount": 31805,
             "subdomainCount": 9475,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "cau.edu.cn"
         },
@@ -406,7 +406,7 @@
             "requestCount": 510231,
             "clientIpCount": 37995,
             "subdomainCount": 2851,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "scu.edu.cn"
         },
@@ -414,7 +414,7 @@
             "requestCount": 3812914,
             "clientIpCount": 28744,
             "subdomainCount": 81244,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "tju.edu.cn"
         },
@@ -422,7 +422,7 @@
             "requestCount": 3731057,
             "clientIpCount": 32208,
             "subdomainCount": 3015,
-            "color": "green",
+            "color": "red",
             "indegree": 1,
             "id": "bnu.edu.cn"
         },
@@ -430,7 +430,7 @@
             "requestCount": 291787,
             "clientIpCount": 23809,
             "subdomainCount": 78418,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "henu.edu.cn"
         },
@@ -438,7 +438,7 @@
             "requestCount": 2945732,
             "clientIpCount": 30492,
             "subdomainCount": 924,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "hfut.edu.cn"
         },
@@ -446,7 +446,7 @@
             "requestCount": 811399,
             "clientIpCount": 35188,
             "subdomainCount": 13686,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "tongji.edu.cn"
         },
@@ -454,7 +454,7 @@
             "requestCount": 645538,
             "clientIpCount": 36451,
             "subdomainCount": 254,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "wxcu.edu.cn"
         },
@@ -462,7 +462,7 @@
             "requestCount": 2207042,
             "clientIpCount": 33427,
             "subdomainCount": 2205,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "seu.edu.cn"
         },
@@ -470,7 +470,7 @@
             "requestCount": 235332,
             "clientIpCount": 22405,
             "subdomainCount": 356,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "hstc.edu.cn"
         },
@@ -478,7 +478,7 @@
             "requestCount": 326067,
             "clientIpCount": 26033,
             "subdomainCount": 500,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "qlu.edu.cn"
         },
@@ -486,7 +486,7 @@
             "requestCount": 840946,
             "clientIpCount": 33624,
             "subdomainCount": 4210,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "sdu.edu.cn"
         },
@@ -494,7 +494,7 @@
             "requestCount": 163021,
             "clientIpCount": 24989,
             "subdomainCount": 332,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "zknu.edu.cn"
         },
@@ -502,7 +502,7 @@
             "requestCount": 300583,
             "clientIpCount": 22051,
             "subdomainCount": 2239,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "aufe.edu.cn"
         },
@@ -510,7 +510,7 @@
             "requestCount": 439165,
             "clientIpCount": 28062,
             "subdomainCount": 825,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "njupt.edu.cn"
         },
@@ -518,7 +518,7 @@
             "requestCount": 2599531,
             "clientIpCount": 30488,
             "subdomainCount": 2647,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "hust.edu.cn"
         },
@@ -526,7 +526,7 @@
             "requestCount": 181393,
             "clientIpCount": 21378,
             "subdomainCount": 401,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "htc.edu.cn"
         },
@@ -534,7 +534,7 @@
             "requestCount": 436648,
             "clientIpCount": 22808,
             "subdomainCount": 2031,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "cdut.edu.cn"
         },
@@ -542,7 +542,7 @@
             "requestCount": 422351,
             "clientIpCount": 31172,
             "subdomainCount": 6424,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "hit.edu.cn"
         },
@@ -550,7 +550,7 @@
             "requestCount": 664021,
             "clientIpCount": 27830,
             "subdomainCount": 17574,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "shu.edu.cn"
         },
@@ -558,7 +558,7 @@
             "requestCount": 929281,
             "clientIpCount": 32664,
             "subdomainCount": 11735,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "xjtu.edu.cn"
         },
@@ -566,7 +566,7 @@
             "requestCount": 339998,
             "clientIpCount": 26348,
             "subdomainCount": 2479,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "scau.edu.cn"
         },
@@ -574,7 +574,7 @@
             "requestCount": 94402,
             "clientIpCount": 18150,
             "subdomainCount": 348,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "ayit.edu.cn"
         },
@@ -582,7 +582,7 @@
             "requestCount": 412153,
             "clientIpCount": 23518,
             "subdomainCount": 731,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "bit.edu.cn"
         },
@@ -590,7 +590,7 @@
             "requestCount": 4978060,
             "clientIpCount": 24024,
             "subdomainCount": 1616,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "suda.edu.cn"
         },
@@ -598,12 +598,12 @@
             "requestCount": 172168,
             "clientIpCount": 17823,
             "subdomainCount": 253,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "ahtcm.edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "indegree": 1,
             "id": "source.edu.cn"
         },
@@ -611,7 +611,7 @@
             "requestCount": 125645,
             "clientIpCount": 30267,
             "subdomainCount": 194,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "cdgdc.edu.cn"
         },
@@ -619,7 +619,7 @@
             "requestCount": 518296,
             "clientIpCount": 25985,
             "subdomainCount": 6828,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "sysu.edu.cn"
         },
@@ -627,7 +627,7 @@
             "requestCount": 128886,
             "clientIpCount": 18277,
             "subdomainCount": 390,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "ahstu.edu.cn"
         },
@@ -635,12 +635,12 @@
             "requestCount": 961977,
             "clientIpCount": 23562,
             "subdomainCount": 3710,
-            "color": "green",
+            "color": "red",
             "indegree": 1,
             "id": "scut.edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "indegree": 1,
             "id": "gznet.edu.cn"
         },
@@ -648,7 +648,7 @@
             "requestCount": 700265,
             "clientIpCount": 29616,
             "subdomainCount": 23291,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "ruc.edu.cn"
         },
@@ -656,7 +656,7 @@
             "requestCount": 2208829,
             "clientIpCount": 25879,
             "subdomainCount": 8190,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "xmu.edu.cn"
         },
@@ -664,7 +664,7 @@
             "requestCount": 791044,
             "clientIpCount": 20681,
             "subdomainCount": 49734,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "shnu.edu.cn"
         },
@@ -672,7 +672,7 @@
             "requestCount": 392113,
             "clientIpCount": 19876,
             "subdomainCount": 845,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "zqu.edu.cn"
         },
@@ -680,7 +680,7 @@
             "requestCount": 4363710,
             "clientIpCount": 23428,
             "subdomainCount": 16083,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "ecnu.edu.cn"
         },
@@ -688,7 +688,7 @@
             "requestCount": 98744,
             "clientIpCount": 17306,
             "subdomainCount": 292,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "wfmc.edu.cn"
         },
@@ -696,7 +696,7 @@
             "requestCount": 66546,
             "clientIpCount": 14365,
             "subdomainCount": 214,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "ahsdxy.edu.cn"
         },
@@ -704,7 +704,7 @@
             "requestCount": 113913,
             "clientIpCount": 16224,
             "subdomainCount": 198,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "hfpec.edu.cn"
         },
@@ -712,7 +712,7 @@
             "requestCount": 292680,
             "clientIpCount": 19606,
             "subdomainCount": 2112,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "bjmu.edu.cn"
         },
@@ -720,7 +720,7 @@
             "requestCount": 100676,
             "clientIpCount": 17574,
             "subdomainCount": 280,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "gtcfla.edu.cn"
         },
@@ -728,7 +728,7 @@
             "requestCount": 3471521,
             "clientIpCount": 20852,
             "subdomainCount": 52198,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "szu.edu.cn"
         },
@@ -736,7 +736,7 @@
             "requestCount": 269864,
             "clientIpCount": 20442,
             "subdomainCount": 2169,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "swjtu.edu.cn"
         },
@@ -744,7 +744,7 @@
             "requestCount": 148885,
             "clientIpCount": 20726,
             "subdomainCount": 105,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "yyxx.edu.cn"
         },
@@ -752,7 +752,7 @@
             "requestCount": 92464,
             "clientIpCount": 12342,
             "subdomainCount": 27,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "amtc.edu.cn"
         },
@@ -760,7 +760,7 @@
             "requestCount": 452937,
             "clientIpCount": 10603,
             "subdomainCount": 17430,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "njnet.edu.cn"
         },
@@ -768,7 +768,7 @@
             "requestCount": 381302,
             "clientIpCount": 22008,
             "subdomainCount": 4538,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "zzu.edu.cn"
         },
@@ -776,7 +776,7 @@
             "requestCount": 1452284,
             "clientIpCount": 18885,
             "subdomainCount": 8129,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "ecust.edu.cn"
         },
@@ -784,7 +784,7 @@
             "requestCount": 307550,
             "clientIpCount": 19807,
             "subdomainCount": 1207,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "ouc.edu.cn"
         },
@@ -792,7 +792,7 @@
             "requestCount": 382102,
             "clientIpCount": 20029,
             "subdomainCount": 1119,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "xidian.edu.cn"
         },
@@ -800,12 +800,12 @@
             "requestCount": 261896,
             "clientIpCount": 15218,
             "subdomainCount": 8154,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "fzu.edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "indegree": 1,
             "id": "crtvu.edu.cn"
         },
@@ -813,12 +813,12 @@
             "requestCount": 329833,
             "clientIpCount": 18742,
             "subdomainCount": 359,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "ouchn.edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "indegree": 2,
             "id": "open.edu.cn"
         },
@@ -826,7 +826,7 @@
             "requestCount": 241062,
             "clientIpCount": 21494,
             "subdomainCount": 1153,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "ncepu.edu.cn"
         },
@@ -834,7 +834,7 @@
             "requestCount": 3433076,
             "clientIpCount": 16848,
             "subdomainCount": 1033,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "nuaa.edu.cn"
         },
@@ -842,7 +842,7 @@
             "requestCount": 60559,
             "clientIpCount": 19414,
             "subdomainCount": 449,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "ldu.edu.cn"
         },
@@ -850,7 +850,7 @@
             "requestCount": 82005,
             "clientIpCount": 21764,
             "subdomainCount": 66,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "jszg.edu.cn"
         },
@@ -858,7 +858,7 @@
             "requestCount": 224213,
             "clientIpCount": 16690,
             "subdomainCount": 190,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "eeagd.edu.cn"
         },
@@ -866,7 +866,7 @@
             "requestCount": 1327242,
             "clientIpCount": 17672,
             "subdomainCount": 10569,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "jnu.edu.cn"
         },
@@ -874,7 +874,7 @@
             "requestCount": 763963,
             "clientIpCount": 16285,
             "subdomainCount": 839,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "hrbeu.edu.cn"
         },
@@ -882,7 +882,7 @@
             "requestCount": 3702114,
             "clientIpCount": 17233,
             "subdomainCount": 92813,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "snnu.edu.cn"
         },
@@ -890,7 +890,7 @@
             "requestCount": 582755,
             "clientIpCount": 21958,
             "subdomainCount": 132719,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "ustb.edu.cn"
         },
@@ -898,7 +898,7 @@
             "requestCount": 278640,
             "clientIpCount": 15238,
             "subdomainCount": 646,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "ahnu.edu.cn"
         },
@@ -906,7 +906,7 @@
             "requestCount": 351745,
             "clientIpCount": 25771,
             "subdomainCount": 213,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "cscse.edu.cn"
         },
@@ -914,7 +914,7 @@
             "requestCount": 161527,
             "clientIpCount": 19039,
             "subdomainCount": 3657,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "usst.edu.cn"
         },
@@ -922,7 +922,7 @@
             "requestCount": 206795,
             "clientIpCount": 17255,
             "subdomainCount": 3211,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "njmu.edu.cn"
         },
@@ -930,7 +930,7 @@
             "requestCount": 864110,
             "clientIpCount": 13345,
             "subdomainCount": 3423,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "hqu.edu.cn"
         },
@@ -938,7 +938,7 @@
             "requestCount": 19981,
             "clientIpCount": 13047,
             "subdomainCount": 242,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "hbfu.edu.cn"
         },
@@ -946,7 +946,7 @@
             "requestCount": 298641,
             "clientIpCount": 15459,
             "subdomainCount": 1667,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "hhu.edu.cn"
         },
@@ -954,7 +954,7 @@
             "requestCount": 2698837,
             "clientIpCount": 18227,
             "subdomainCount": 1415,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "scnu.edu.cn"
         },
@@ -962,7 +962,7 @@
             "requestCount": 281176,
             "clientIpCount": 14992,
             "subdomainCount": 1994,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "whut.edu.cn"
         },
@@ -970,7 +970,7 @@
             "requestCount": 125049,
             "clientIpCount": 15430,
             "subdomainCount": 932,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "nwu.edu.cn"
         },
@@ -978,7 +978,7 @@
             "requestCount": 3897149,
             "clientIpCount": 17728,
             "subdomainCount": 1142,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "upc.edu.cn"
         },
@@ -986,7 +986,7 @@
             "requestCount": 260479,
             "clientIpCount": 11412,
             "subdomainCount": 1422,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "cdu.edu.cn"
         },
@@ -994,7 +994,7 @@
             "requestCount": 180115,
             "clientIpCount": 14794,
             "subdomainCount": 1600,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "ahu.edu.cn"
         },
@@ -1002,7 +1002,7 @@
             "requestCount": 129353,
             "clientIpCount": 12459,
             "subdomainCount": 222,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "wuyiu.edu.cn"
         },
@@ -1010,7 +1010,7 @@
             "requestCount": 152026,
             "clientIpCount": 12976,
             "subdomainCount": 431,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "ahmu.edu.cn"
         },
@@ -1018,7 +1018,7 @@
             "requestCount": 407869,
             "clientIpCount": 13730,
             "subdomainCount": 2119,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "cug.edu.cn"
         },
@@ -1026,7 +1026,7 @@
             "requestCount": 228600,
             "clientIpCount": 14816,
             "subdomainCount": 1483,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "ncu.edu.cn"
         },
@@ -1034,7 +1034,7 @@
             "requestCount": 323294,
             "clientIpCount": 13519,
             "subdomainCount": 750,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "jse.edu.cn"
         },
@@ -1042,7 +1042,7 @@
             "requestCount": 121371,
             "clientIpCount": 17700,
             "subdomainCount": 470,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "cup.edu.cn"
         },
@@ -1050,7 +1050,7 @@
             "requestCount": 173344,
             "clientIpCount": 15774,
             "subdomainCount": 880,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "buct.edu.cn"
         },
@@ -1058,12 +1058,12 @@
             "requestCount": 324935,
             "clientIpCount": 15584,
             "subdomainCount": 2085,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "bjut.edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "indegree": 1,
             "id": "resource.edu.cn"
         },
@@ -1071,7 +1071,7 @@
             "requestCount": 556468,
             "clientIpCount": 14115,
             "subdomainCount": 2188,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "enaea.edu.cn"
         },
@@ -1079,7 +1079,7 @@
             "requestCount": 152940,
             "clientIpCount": 15969,
             "subdomainCount": 827,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "ynu.edu.cn"
         },
@@ -1087,12 +1087,12 @@
             "requestCount": 769406,
             "clientIpCount": 15587,
             "subdomainCount": 1311,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "ccnu.edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "indegree": 1,
             "id": "sd.edu.cn"
         },
@@ -1100,7 +1100,7 @@
             "requestCount": 196768,
             "clientIpCount": 12483,
             "subdomainCount": 330,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "sdei.edu.cn"
         },
@@ -1108,7 +1108,7 @@
             "requestCount": 262537,
             "clientIpCount": 15323,
             "subdomainCount": 4337,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "swufe.edu.cn"
         },
@@ -1116,7 +1116,7 @@
             "requestCount": 2215942,
             "clientIpCount": 19601,
             "subdomainCount": 1007,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "ujs.edu.cn"
         },
@@ -1124,7 +1124,7 @@
             "requestCount": 199058,
             "clientIpCount": 12062,
             "subdomainCount": 372,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "aust.edu.cn"
         },
@@ -1132,7 +1132,7 @@
             "requestCount": 494205,
             "clientIpCount": 13163,
             "subdomainCount": 2265,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "hznu.edu.cn"
         },
@@ -1140,7 +1140,7 @@
             "requestCount": 169762,
             "clientIpCount": 13538,
             "subdomainCount": 996,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "swpu.edu.cn"
         },
@@ -1148,7 +1148,7 @@
             "requestCount": 340195,
             "clientIpCount": 15217,
             "subdomainCount": 2401,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "hzau.edu.cn"
         },
@@ -1156,7 +1156,7 @@
             "requestCount": 145303,
             "clientIpCount": 14868,
             "subdomainCount": 2148,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "ysu.edu.cn"
         },
@@ -1164,7 +1164,7 @@
             "requestCount": 61057,
             "clientIpCount": 11439,
             "subdomainCount": 46,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "fynu.edu.cn"
         },
@@ -1172,7 +1172,7 @@
             "requestCount": 40945,
             "clientIpCount": 10919,
             "subdomainCount": 182,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "cua.edu.cn"
         },
@@ -1180,7 +1180,7 @@
             "requestCount": 297925,
             "clientIpCount": 12947,
             "subdomainCount": 1295,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "hebut.edu.cn"
         },
@@ -1188,7 +1188,7 @@
             "requestCount": 176311,
             "clientIpCount": 12986,
             "subdomainCount": 660,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "njtech.edu.cn"
         },
@@ -1196,7 +1196,7 @@
             "requestCount": 130496,
             "clientIpCount": 10391,
             "subdomainCount": 612,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "hnust.edu.cn"
         },
@@ -1204,7 +1204,7 @@
             "requestCount": 219627,
             "clientIpCount": 13006,
             "subdomainCount": 2546,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "jiangnan.edu.cn"
         },
@@ -1212,7 +1212,7 @@
             "requestCount": 161881,
             "clientIpCount": 14323,
             "subdomainCount": 495,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "zzuli.edu.cn"
         },
@@ -1220,7 +1220,7 @@
             "requestCount": 98463,
             "clientIpCount": 11706,
             "subdomainCount": 212,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "hebeea.edu.cn"
         },
@@ -1228,7 +1228,7 @@
             "requestCount": 551101,
             "clientIpCount": 11853,
             "subdomainCount": 280037,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "shmtu.edu.cn"
         },
@@ -1236,7 +1236,7 @@
             "requestCount": 64920,
             "clientIpCount": 12852,
             "subdomainCount": 460,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "shzu.edu.cn"
         },
@@ -1244,7 +1244,7 @@
             "requestCount": 179755,
             "clientIpCount": 12838,
             "subdomainCount": 580,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "gzu.edu.cn"
         },
@@ -1252,7 +1252,7 @@
             "requestCount": 178846,
             "clientIpCount": 13487,
             "subdomainCount": 522,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "nwsuaf.edu.cn"
         },
@@ -1260,7 +1260,7 @@
             "requestCount": 277152,
             "clientIpCount": 13378,
             "subdomainCount": 2278,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "hnu.edu.cn"
         },
@@ -1268,7 +1268,7 @@
             "requestCount": 193651,
             "clientIpCount": 10546,
             "subdomainCount": 1681,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "ahau.edu.cn"
         },
@@ -1276,7 +1276,7 @@
             "requestCount": 203768,
             "clientIpCount": 11358,
             "subdomainCount": 733,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "shec.edu.cn"
         },
@@ -1284,7 +1284,7 @@
             "requestCount": 67603,
             "clientIpCount": 11741,
             "subdomainCount": 1365,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "gzpyp.edu.cn"
         },
@@ -1292,12 +1292,12 @@
             "requestCount": 71078,
             "clientIpCount": 12352,
             "subdomainCount": 365,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "cugb.edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "indegree": 1,
             "id": "service.edu.cn"
         },
@@ -1305,7 +1305,7 @@
             "requestCount": 132366,
             "clientIpCount": 15538,
             "subdomainCount": 230,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "csc.edu.cn"
         },
@@ -1313,7 +1313,7 @@
             "requestCount": 112194,
             "clientIpCount": 12627,
             "subdomainCount": 1609,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "nbu.edu.cn"
         },
@@ -1321,24 +1321,24 @@
             "requestCount": 223227,
             "clientIpCount": 14488,
             "subdomainCount": 7747,
-            "color": "green",
+            "color": "red",
             "indegree": 0,
             "id": "swu.edu.cn"
         }
     ],
     "links": [
         {
-            "color": "green",
+            "color": "red",
             "source": "sjtu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "edu.cn",
             "target": "cernet.net"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "edu.cn",
             "target": "cn"
         },
@@ -1353,7 +1353,7 @@
             "target": "gtld-servers.net"
         },
         {
-            "color": "red",
+            "color": "green",
             "source": "net",
             "target": "."
         },
@@ -1378,7 +1378,7 @@
             "target": "gtld-servers.net"
         },
         {
-            "color": "red",
+            "color": "green",
             "source": "com",
             "target": "."
         },
@@ -1393,7 +1393,7 @@
             "target": "dns.cn"
         },
         {
-            "color": "red",
+            "color": "green",
             "source": "cn",
             "target": "."
         },
@@ -1403,22 +1403,22 @@
             "target": "cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "nic.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "time.edu.cn",
             "target": "nic.edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "time.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "tsinghua.edu.cn",
             "target": "edu.cn"
         },
@@ -1428,32 +1428,32 @@
             "target": "cernet.net"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "neu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "neea.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "moe.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "neu6.edu.cn",
             "target": "neu.edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "neu6.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "ustc.edu.cn",
             "target": "edu.cn"
         },
@@ -1468,37 +1468,37 @@
             "target": "bdydns.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "zxx.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "fudan.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "njnu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "zju.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "pku.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "buaa.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "nju.edu.cn",
             "target": "edu.cn"
         },
@@ -1518,7 +1518,7 @@
             "target": "dku.edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "dukekunshan.edu.cn",
             "target": "edu.cn"
         },
@@ -1538,7 +1538,7 @@
             "target": "edu-servers.net"
         },
         {
-            "color": "red",
+            "color": "green",
             "source": "edu",
             "target": "."
         },
@@ -1558,782 +1558,782 @@
             "target": "oit.duke.edu"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "dku.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "bfsu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "dlut.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "cqu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "synet.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "bjtu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "nwpu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "ahpu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "cdivtc.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "lzu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "aiit.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "chd.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "uestc.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "fafu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "cumt.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "hnnu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "fjtu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "fjnu.edu.cn",
             "target": "fjtu.edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "fjnu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "qau.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "buptnet.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "bupt.edu.cn",
             "target": "buptnet.edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "bupt.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "jlu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "whu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "nankai.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "csu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "cau.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "scu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "tju.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "bnu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "henu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "hfut.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "tongji.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "wxcu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "seu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "hstc.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "qlu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "sdu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "zknu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "aufe.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "njupt.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "hust.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "htc.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "cdut.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "hit.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "shu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "xjtu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "scau.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "ayit.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "bit.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "suda.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "ahtcm.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "source.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "cdgdc.edu.cn",
             "target": "source.edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "cdgdc.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "sysu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "ahstu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "scut.edu.cn",
             "target": "gznet.edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "scut.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "gznet.edu.cn",
             "target": "scut.edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "gznet.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "ruc.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "xmu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "shnu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "zqu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "ecnu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "wfmc.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "ahsdxy.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "hfpec.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "bjmu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "gtcfla.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "szu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "swjtu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "yyxx.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "amtc.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "njnet.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "zzu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "ecust.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "ouc.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "xidian.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "fzu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "crtvu.edu.cn",
             "target": "open.edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "crtvu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "ouchn.edu.cn",
             "target": "crtvu.edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "ouchn.edu.cn",
             "target": "open.edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "ouchn.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "open.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "ncepu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "nuaa.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "ldu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "jszg.edu.cn",
             "target": "bnu.edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "jszg.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "eeagd.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "jnu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "hrbeu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "snnu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "ustb.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "ahnu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "cscse.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "usst.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "njmu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "hqu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "hbfu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "hhu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "scnu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "whut.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "nwu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "upc.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "cdu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "ahu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "wuyiu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "ahmu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "cug.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "ncu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "jse.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "cup.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "buct.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "bjut.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "resource.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "enaea.edu.cn",
             "target": "resource.edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "enaea.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "ynu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "ccnu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "sd.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "sdei.edu.cn",
             "target": "sd.edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "sdei.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "swufe.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "ujs.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "aust.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "hznu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "swpu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "hzau.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "ysu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "fynu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "cua.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "hebut.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "njtech.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "hnust.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "jiangnan.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "zzuli.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "hebeea.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "shmtu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "shzu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "gzu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "nwsuaf.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "hnu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "ahau.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "shec.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "gzpyp.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "cugb.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "service.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "csc.edu.cn",
             "target": "service.edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "csc.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "nbu.edu.cn",
             "target": "edu.cn"
         },
         {
-            "color": "green",
+            "color": "red",
             "source": "swu.edu.cn",
             "target": "edu.cn"
         }
