@@ -4,36 +4,65 @@
             "requestCount": 43813154,
             "clientIpCount": 3219618,
             "subdomainCount": 14790,
+            "ip": [
+                "202.120.2.119"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "sjtu.edu.cn"
         },
         {
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 161,
             "id": "edu.cn"
         },
         {
+            "ip": [
+                "202.112.0.46"
+            ],
+            "as": [
+                4538
+            ],
+            "register": "Xiamen 35.Com Technology Co., Ltd",
             "color": "green",
             "indegree": 3,
             "id": "cernet.net"
         },
         {
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 3,
             "id": "net"
         },
         {
+            "ip": [],
+            "as": [],
+            "register": "NETWORK SOLUTIONS, LLC.",
             "color": "green",
             "indegree": 2,
             "id": "gtld-servers.net"
         },
         {
+            "ip": [],
+            "as": [],
+            "register": "Network Solutions, LLC",
             "color": "green",
             "indegree": 2,
             "id": "nstld.com"
         },
         {
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 1,
             "id": "com"
@@ -44,16 +73,33 @@
             "id": "."
         },
         {
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 3,
             "id": "cn"
         },
         {
+            "ip": [
+                "218.241.99.89"
+            ],
+            "as": [
+                24151
+            ],
+            "register": "\u5317\u4eac\u65b0\u7f51\u6570\u7801\u4fe1\u606f\u6280\u672f\u6709\u9650\u516c\u53f8",
             "color": "green",
             "indegree": 1,
             "id": "dns.cn"
         },
         {
+            "ip": [
+                "202.112.0.46"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 1,
             "id": "nic.edu.cn"
@@ -62,6 +108,16 @@
             "requestCount": 1288470328,
             "clientIpCount": 4054401,
             "subdomainCount": 62,
+            "ip": [
+                "202.112.10.37",
+                "202.112.0.7",
+                "202.112.0.38",
+                "202.112.10.36"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "time.edu.cn"
@@ -70,6 +126,9 @@
             "requestCount": 6148725,
             "clientIpCount": 270641,
             "subdomainCount": 19314,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "tsinghua.edu.cn"
@@ -78,6 +137,13 @@
             "requestCount": 4520560,
             "clientIpCount": 227850,
             "subdomainCount": 3148,
+            "ip": [
+                "210.30.199.4"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 1,
             "id": "neu.edu.cn"
@@ -86,6 +152,13 @@
             "requestCount": 7633584,
             "clientIpCount": 273493,
             "subdomainCount": 855,
+            "ip": [
+                "121.194.8.124"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "neea.edu.cn"
@@ -94,6 +167,9 @@
             "requestCount": 1406393,
             "clientIpCount": 268245,
             "subdomainCount": 596,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "moe.edu.cn"
@@ -102,6 +178,9 @@
             "requestCount": 1128202,
             "clientIpCount": 178677,
             "subdomainCount": 156,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "neu6.edu.cn"
@@ -110,11 +189,21 @@
             "requestCount": 4631049,
             "clientIpCount": 150684,
             "subdomainCount": 10520,
+            "ip": [
+                "202.38.64.246"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "ustc.edu.cn"
         },
         {
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 1,
             "id": "bdydns.cn"
@@ -123,6 +212,15 @@
             "requestCount": 1009959,
             "clientIpCount": 124480,
             "subdomainCount": 49,
+            "ip": [
+                "106.117.216.41",
+                "222.199.191.41"
+            ],
+            "as": [
+                4538,
+                4134
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "zxx.edu.cn"
@@ -131,6 +229,13 @@
             "requestCount": 41405454,
             "clientIpCount": 97728,
             "subdomainCount": 7696,
+            "ip": [
+                "202.120.224.81"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "fudan.edu.cn"
@@ -139,6 +244,13 @@
             "requestCount": 3984998,
             "clientIpCount": 66670,
             "subdomainCount": 620,
+            "ip": [
+                "211.65.216.200"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "njnu.edu.cn"
@@ -147,6 +259,9 @@
             "requestCount": 1901534,
             "clientIpCount": 104182,
             "subdomainCount": 19342,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "zju.edu.cn"
@@ -155,6 +270,13 @@
             "requestCount": 1451430,
             "clientIpCount": 87280,
             "subdomainCount": 85836,
+            "ip": [
+                "162.105.131.160"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "pku.edu.cn"
@@ -163,6 +285,13 @@
             "requestCount": 618983,
             "clientIpCount": 57669,
             "subdomainCount": 2480,
+            "ip": [
+                "106.39.41.16"
+            ],
+            "as": [
+                4847
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "buaa.edu.cn"
@@ -171,11 +300,21 @@
             "requestCount": 9332207,
             "clientIpCount": 66365,
             "subdomainCount": 78628,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "nju.edu.cn"
         },
         {
+            "ip": [
+                "152.3.100.226"
+            ],
+            "as": [
+                13371
+            ],
+            "register": null,
             "color": "green",
             "indegree": 3,
             "id": "oit.duke.edu"
@@ -184,26 +323,53 @@
             "requestCount": 173319,
             "clientIpCount": 50118,
             "subdomainCount": 210,
+            "ip": [
+                "52.80.79.219"
+            ],
+            "as": [
+                55960
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "dukekunshan.edu.cn"
         },
         {
+            "ip": [
+                "152.3.72.197"
+            ],
+            "as": [
+                13371
+            ],
+            "register": null,
             "color": "green",
             "indegree": 1,
             "id": "duke.edu"
         },
         {
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 1,
             "id": "edu"
         },
         {
+            "ip": [],
+            "as": [],
+            "register": "CSC CORPORATE DOMAINS, INC.",
             "color": "green",
             "indegree": 1,
             "id": "edu-servers.net"
         },
         {
+            "ip": [
+                "52.80.79.219"
+            ],
+            "as": [
+                55960
+            ],
+            "register": null,
             "color": "green",
             "indegree": 1,
             "id": "dku.edu.cn"
@@ -212,6 +378,13 @@
             "requestCount": 832050,
             "clientIpCount": 54835,
             "subdomainCount": 461,
+            "ip": [
+                "202.204.128.161"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "bfsu.edu.cn"
@@ -220,6 +393,9 @@
             "requestCount": 336309,
             "clientIpCount": 53709,
             "subdomainCount": 2360,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "dlut.edu.cn"
@@ -228,6 +404,13 @@
             "requestCount": 889963,
             "clientIpCount": 52525,
             "subdomainCount": 1296,
+            "ip": [
+                "202.202.2.6"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "cqu.edu.cn"
@@ -236,6 +419,9 @@
             "requestCount": 1232904,
             "clientIpCount": 40263,
             "subdomainCount": 12,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "synet.edu.cn"
@@ -244,6 +430,13 @@
             "requestCount": 511310,
             "clientIpCount": 53733,
             "subdomainCount": 1690,
+            "ip": [
+                "202.112.154.197"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "bjtu.edu.cn"
@@ -252,6 +445,9 @@
             "requestCount": 597735,
             "clientIpCount": 49001,
             "subdomainCount": 31336,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "nwpu.edu.cn"
@@ -260,6 +456,9 @@
             "requestCount": 332867,
             "clientIpCount": 33388,
             "subdomainCount": 277,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "ahpu.edu.cn"
@@ -268,6 +467,13 @@
             "requestCount": 63836,
             "clientIpCount": 38224,
             "subdomainCount": 154,
+            "ip": [
+                "42.247.24.2"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "cdivtc.edu.cn"
@@ -276,6 +482,9 @@
             "requestCount": 1123802,
             "clientIpCount": 50205,
             "subdomainCount": 1326,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "lzu.edu.cn"
@@ -284,6 +493,13 @@
             "requestCount": 287931,
             "clientIpCount": 30816,
             "subdomainCount": 317,
+            "ip": [
+                "61.191.137.172"
+            ],
+            "as": [
+                4134
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "aiit.edu.cn"
@@ -292,6 +508,13 @@
             "requestCount": 504982,
             "clientIpCount": 33709,
             "subdomainCount": 2537,
+            "ip": [
+                "202.117.64.152"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "chd.edu.cn"
@@ -300,6 +523,9 @@
             "requestCount": 1345580,
             "clientIpCount": 35577,
             "subdomainCount": 3384,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "uestc.edu.cn"
@@ -308,6 +534,13 @@
             "requestCount": 1300664,
             "clientIpCount": 39365,
             "subdomainCount": 1362,
+            "ip": [
+                "59.56.177.18"
+            ],
+            "as": [
+                4134
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "fafu.edu.cn"
@@ -316,6 +549,13 @@
             "requestCount": 870181,
             "clientIpCount": 39132,
             "subdomainCount": 2809,
+            "ip": [
+                "202.119.200.206"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "cumt.edu.cn"
@@ -324,11 +564,17 @@
             "requestCount": 6570004,
             "clientIpCount": 31694,
             "subdomainCount": 3250,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "hnnu.edu.cn"
         },
         {
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 1,
             "id": "fjtu.edu.cn"
@@ -337,6 +583,13 @@
             "requestCount": 1664470,
             "clientIpCount": 34905,
             "subdomainCount": 3263,
+            "ip": [
+                "121.204.145.238"
+            ],
+            "as": [
+                133774
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "fjnu.edu.cn"
@@ -345,11 +598,17 @@
             "requestCount": 249258,
             "clientIpCount": 32123,
             "subdomainCount": 685,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "qau.edu.cn"
         },
         {
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 1,
             "id": "buptnet.edu.cn"
@@ -358,6 +617,9 @@
             "requestCount": 923055,
             "clientIpCount": 37372,
             "subdomainCount": 630,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "bupt.edu.cn"
@@ -366,6 +628,13 @@
             "requestCount": 759305,
             "clientIpCount": 40204,
             "subdomainCount": 2783,
+            "ip": [
+                "202.198.16.83"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "jlu.edu.cn"
@@ -374,6 +643,13 @@
             "requestCount": 1158181,
             "clientIpCount": 49336,
             "subdomainCount": 121793,
+            "ip": [
+                "202.114.64.84"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "whu.edu.cn"
@@ -382,6 +658,13 @@
             "requestCount": 1499572,
             "clientIpCount": 33062,
             "subdomainCount": 70165,
+            "ip": [
+                "222.30.45.190"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "nankai.edu.cn"
@@ -390,6 +673,13 @@
             "requestCount": 680096,
             "clientIpCount": 32613,
             "subdomainCount": 6924,
+            "ip": [
+                "202.197.61.57"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "csu.edu.cn"
@@ -398,6 +688,13 @@
             "requestCount": 606824,
             "clientIpCount": 31805,
             "subdomainCount": 9475,
+            "ip": [
+                "202.205.80.163"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "cau.edu.cn"
@@ -406,6 +703,13 @@
             "requestCount": 510231,
             "clientIpCount": 37995,
             "subdomainCount": 2851,
+            "ip": [
+                "202.115.32.43"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "scu.edu.cn"
@@ -414,6 +718,13 @@
             "requestCount": 3812914,
             "clientIpCount": 28744,
             "subdomainCount": 81244,
+            "ip": [
+                "202.113.2.199"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "tju.edu.cn"
@@ -422,6 +733,9 @@
             "requestCount": 3731057,
             "clientIpCount": 32208,
             "subdomainCount": 3015,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 1,
             "id": "bnu.edu.cn"
@@ -430,6 +744,9 @@
             "requestCount": 291787,
             "clientIpCount": 23809,
             "subdomainCount": 78418,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "henu.edu.cn"
@@ -438,6 +755,9 @@
             "requestCount": 2945732,
             "clientIpCount": 30492,
             "subdomainCount": 924,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "hfut.edu.cn"
@@ -446,6 +766,9 @@
             "requestCount": 811399,
             "clientIpCount": 35188,
             "subdomainCount": 13686,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "tongji.edu.cn"
@@ -454,6 +777,9 @@
             "requestCount": 645538,
             "clientIpCount": 36451,
             "subdomainCount": 254,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "wxcu.edu.cn"
@@ -462,6 +788,13 @@
             "requestCount": 2207042,
             "clientIpCount": 33427,
             "subdomainCount": 2205,
+            "ip": [
+                "58.192.118.142"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "seu.edu.cn"
@@ -470,6 +803,9 @@
             "requestCount": 235332,
             "clientIpCount": 22405,
             "subdomainCount": 356,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "hstc.edu.cn"
@@ -478,6 +814,9 @@
             "requestCount": 326067,
             "clientIpCount": 26033,
             "subdomainCount": 500,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "qlu.edu.cn"
@@ -486,6 +825,15 @@
             "requestCount": 840946,
             "clientIpCount": 33624,
             "subdomainCount": 4210,
+            "ip": [
+                "202.194.15.6",
+                "211.86.56.247",
+                "202.194.14.6"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "sdu.edu.cn"
@@ -494,6 +842,9 @@
             "requestCount": 163021,
             "clientIpCount": 24989,
             "subdomainCount": 332,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "zknu.edu.cn"
@@ -502,6 +853,9 @@
             "requestCount": 300583,
             "clientIpCount": 22051,
             "subdomainCount": 2239,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "aufe.edu.cn"
@@ -510,6 +864,15 @@
             "requestCount": 439165,
             "clientIpCount": 28062,
             "subdomainCount": 825,
+            "ip": [
+                "202.119.224.201",
+                "202.119.230.10",
+                "202.119.230.8"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "njupt.edu.cn"
@@ -518,6 +881,13 @@
             "requestCount": 2599531,
             "clientIpCount": 30488,
             "subdomainCount": 2647,
+            "ip": [
+                "202.114.0.245"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "hust.edu.cn"
@@ -526,6 +896,9 @@
             "requestCount": 181393,
             "clientIpCount": 21378,
             "subdomainCount": 401,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "htc.edu.cn"
@@ -534,6 +907,13 @@
             "requestCount": 436648,
             "clientIpCount": 22808,
             "subdomainCount": 2031,
+            "ip": [
+                "202.115.128.60"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "cdut.edu.cn"
@@ -542,6 +922,13 @@
             "requestCount": 422351,
             "clientIpCount": 31172,
             "subdomainCount": 6424,
+            "ip": [
+                "202.118.254.135"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "hit.edu.cn"
@@ -550,6 +937,13 @@
             "requestCount": 664021,
             "clientIpCount": 27830,
             "subdomainCount": 17574,
+            "ip": [
+                "202.120.127.220"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "shu.edu.cn"
@@ -558,6 +952,9 @@
             "requestCount": 929281,
             "clientIpCount": 32664,
             "subdomainCount": 11735,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "xjtu.edu.cn"
@@ -566,6 +963,13 @@
             "requestCount": 339998,
             "clientIpCount": 26348,
             "subdomainCount": 2479,
+            "ip": [
+                "202.116.160.17"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "scau.edu.cn"
@@ -574,6 +978,9 @@
             "requestCount": 94402,
             "clientIpCount": 18150,
             "subdomainCount": 348,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "ayit.edu.cn"
@@ -582,6 +989,13 @@
             "requestCount": 412153,
             "clientIpCount": 23518,
             "subdomainCount": 731,
+            "ip": [
+                "114.247.56.92"
+            ],
+            "as": [
+                4808
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "bit.edu.cn"
@@ -590,6 +1004,9 @@
             "requestCount": 4978060,
             "clientIpCount": 24024,
             "subdomainCount": 1616,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "suda.edu.cn"
@@ -598,11 +1015,17 @@
             "requestCount": 172168,
             "clientIpCount": 17823,
             "subdomainCount": 253,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "ahtcm.edu.cn"
         },
         {
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 1,
             "id": "source.edu.cn"
@@ -611,6 +1034,9 @@
             "requestCount": 125645,
             "clientIpCount": 30267,
             "subdomainCount": 194,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "cdgdc.edu.cn"
@@ -619,6 +1045,13 @@
             "requestCount": 518296,
             "clientIpCount": 25985,
             "subdomainCount": 6828,
+            "ip": [
+                "202.116.64.8"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "sysu.edu.cn"
@@ -627,6 +1060,9 @@
             "requestCount": 128886,
             "clientIpCount": 18277,
             "subdomainCount": 390,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "ahstu.edu.cn"
@@ -635,11 +1071,21 @@
             "requestCount": 961977,
             "clientIpCount": 23562,
             "subdomainCount": 3710,
+            "ip": [
+                "202.38.193.28"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 1,
             "id": "scut.edu.cn"
         },
         {
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 1,
             "id": "gznet.edu.cn"
@@ -648,6 +1094,13 @@
             "requestCount": 700265,
             "clientIpCount": 29616,
             "subdomainCount": 23291,
+            "ip": [
+                "222.29.216.11"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "ruc.edu.cn"
@@ -656,6 +1109,13 @@
             "requestCount": 2208829,
             "clientIpCount": 25879,
             "subdomainCount": 8190,
+            "ip": [
+                "219.229.81.200"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "xmu.edu.cn"
@@ -664,6 +1124,13 @@
             "requestCount": 791044,
             "clientIpCount": 20681,
             "subdomainCount": 49734,
+            "ip": [
+                "202.121.48.117"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "shnu.edu.cn"
@@ -672,6 +1139,13 @@
             "requestCount": 392113,
             "clientIpCount": 19876,
             "subdomainCount": 845,
+            "ip": [
+                "10.0.1.77"
+            ],
+            "as": [
+                null
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "zqu.edu.cn"
@@ -680,6 +1154,9 @@
             "requestCount": 4363710,
             "clientIpCount": 23428,
             "subdomainCount": 16083,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "ecnu.edu.cn"
@@ -688,6 +1165,14 @@
             "requestCount": 98744,
             "clientIpCount": 17306,
             "subdomainCount": 292,
+            "ip": [
+                "210.44.80.2",
+                "210.44.80.1"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "wfmc.edu.cn"
@@ -696,6 +1181,13 @@
             "requestCount": 66546,
             "clientIpCount": 14365,
             "subdomainCount": 214,
+            "ip": [
+                "222.207.9.100"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "ahsdxy.edu.cn"
@@ -704,6 +1196,9 @@
             "requestCount": 113913,
             "clientIpCount": 16224,
             "subdomainCount": 198,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "hfpec.edu.cn"
@@ -712,6 +1207,9 @@
             "requestCount": 292680,
             "clientIpCount": 19606,
             "subdomainCount": 2112,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "bjmu.edu.cn"
@@ -720,6 +1218,9 @@
             "requestCount": 100676,
             "clientIpCount": 17574,
             "subdomainCount": 280,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "gtcfla.edu.cn"
@@ -728,6 +1229,13 @@
             "requestCount": 3471521,
             "clientIpCount": 20852,
             "subdomainCount": 52198,
+            "ip": [
+                "210.39.4.1"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "szu.edu.cn"
@@ -736,6 +1244,13 @@
             "requestCount": 269864,
             "clientIpCount": 20442,
             "subdomainCount": 2169,
+            "ip": [
+                "202.115.64.146"
+            ],
+            "as": [
+                24355
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "swjtu.edu.cn"
@@ -744,6 +1259,9 @@
             "requestCount": 148885,
             "clientIpCount": 20726,
             "subdomainCount": 105,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "yyxx.edu.cn"
@@ -752,6 +1270,9 @@
             "requestCount": 92464,
             "clientIpCount": 12342,
             "subdomainCount": 27,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "amtc.edu.cn"
@@ -760,6 +1281,13 @@
             "requestCount": 452937,
             "clientIpCount": 10603,
             "subdomainCount": 17430,
+            "ip": [
+                "202.112.23.162"
+            ],
+            "as": [
+                24361
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "njnet.edu.cn"
@@ -768,6 +1296,9 @@
             "requestCount": 381302,
             "clientIpCount": 22008,
             "subdomainCount": 4538,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "zzu.edu.cn"
@@ -776,6 +1307,13 @@
             "requestCount": 1452284,
             "clientIpCount": 18885,
             "subdomainCount": 8129,
+            "ip": [
+                "202.120.108.164"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "ecust.edu.cn"
@@ -784,6 +1322,9 @@
             "requestCount": 307550,
             "clientIpCount": 19807,
             "subdomainCount": 1207,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "ouc.edu.cn"
@@ -792,6 +1333,9 @@
             "requestCount": 382102,
             "clientIpCount": 20029,
             "subdomainCount": 1119,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "xidian.edu.cn"
@@ -800,11 +1344,22 @@
             "requestCount": 261896,
             "clientIpCount": 15218,
             "subdomainCount": 8154,
+            "ip": [
+                "210.34.48.16",
+                "210.34.48.25"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "fzu.edu.cn"
         },
         {
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 1,
             "id": "crtvu.edu.cn"
@@ -813,11 +1368,17 @@
             "requestCount": 329833,
             "clientIpCount": 18742,
             "subdomainCount": 359,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "ouchn.edu.cn"
         },
         {
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 2,
             "id": "open.edu.cn"
@@ -826,6 +1387,9 @@
             "requestCount": 241062,
             "clientIpCount": 21494,
             "subdomainCount": 1153,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "ncepu.edu.cn"
@@ -834,6 +1398,13 @@
             "requestCount": 3433076,
             "clientIpCount": 16848,
             "subdomainCount": 1033,
+            "ip": [
+                "218.94.136.180"
+            ],
+            "as": [
+                4134
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "nuaa.edu.cn"
@@ -842,6 +1413,9 @@
             "requestCount": 60559,
             "clientIpCount": 19414,
             "subdomainCount": 449,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "ldu.edu.cn"
@@ -850,6 +1424,9 @@
             "requestCount": 82005,
             "clientIpCount": 21764,
             "subdomainCount": 66,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "jszg.edu.cn"
@@ -858,6 +1435,9 @@
             "requestCount": 224213,
             "clientIpCount": 16690,
             "subdomainCount": 190,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "eeagd.edu.cn"
@@ -866,6 +1446,13 @@
             "requestCount": 1327242,
             "clientIpCount": 17672,
             "subdomainCount": 10569,
+            "ip": [
+                "218.19.141.2"
+            ],
+            "as": [
+                4134
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "jnu.edu.cn"
@@ -874,6 +1461,13 @@
             "requestCount": 763963,
             "clientIpCount": 16285,
             "subdomainCount": 839,
+            "ip": [
+                "202.118.176.2"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "hrbeu.edu.cn"
@@ -882,6 +1476,9 @@
             "requestCount": 3702114,
             "clientIpCount": 17233,
             "subdomainCount": 92813,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "snnu.edu.cn"
@@ -890,6 +1487,13 @@
             "requestCount": 582755,
             "clientIpCount": 21958,
             "subdomainCount": 132719,
+            "ip": [
+                "202.204.49.199"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "ustb.edu.cn"
@@ -898,6 +1502,15 @@
             "requestCount": 278640,
             "clientIpCount": 15238,
             "subdomainCount": 646,
+            "ip": [
+                "210.45.192.193",
+                "210.45.192.121",
+                "210.45.192.122"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "ahnu.edu.cn"
@@ -906,6 +1519,13 @@
             "requestCount": 351745,
             "clientIpCount": 25771,
             "subdomainCount": 213,
+            "ip": [
+                "219.232.96.185"
+            ],
+            "as": [
+                4808
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "cscse.edu.cn"
@@ -914,6 +1534,9 @@
             "requestCount": 161527,
             "clientIpCount": 19039,
             "subdomainCount": 3657,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "usst.edu.cn"
@@ -922,6 +1545,9 @@
             "requestCount": 206795,
             "clientIpCount": 17255,
             "subdomainCount": 3211,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "njmu.edu.cn"
@@ -930,6 +1556,13 @@
             "requestCount": 864110,
             "clientIpCount": 13345,
             "subdomainCount": 3423,
+            "ip": [
+                "210.34.240.11"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "hqu.edu.cn"
@@ -938,6 +1571,13 @@
             "requestCount": 19981,
             "clientIpCount": 13047,
             "subdomainCount": 242,
+            "ip": [
+                "222.30.192.5"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "hbfu.edu.cn"
@@ -946,6 +1586,9 @@
             "requestCount": 298641,
             "clientIpCount": 15459,
             "subdomainCount": 1667,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "hhu.edu.cn"
@@ -954,6 +1597,13 @@
             "requestCount": 2698837,
             "clientIpCount": 18227,
             "subdomainCount": 1415,
+            "ip": [
+                "121.8.171.51"
+            ],
+            "as": [
+                4134
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "scnu.edu.cn"
@@ -962,6 +1612,13 @@
             "requestCount": 281176,
             "clientIpCount": 14992,
             "subdomainCount": 1994,
+            "ip": [
+                "202.114.50.2"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "whut.edu.cn"
@@ -970,6 +1627,9 @@
             "requestCount": 125049,
             "clientIpCount": 15430,
             "subdomainCount": 932,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "nwu.edu.cn"
@@ -978,6 +1638,13 @@
             "requestCount": 3897149,
             "clientIpCount": 17728,
             "subdomainCount": 1142,
+            "ip": [
+                "121.251.249.55"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "upc.edu.cn"
@@ -986,6 +1653,9 @@
             "requestCount": 260479,
             "clientIpCount": 11412,
             "subdomainCount": 1422,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "cdu.edu.cn"
@@ -994,6 +1664,9 @@
             "requestCount": 180115,
             "clientIpCount": 14794,
             "subdomainCount": 1600,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "ahu.edu.cn"
@@ -1002,6 +1675,13 @@
             "requestCount": 129353,
             "clientIpCount": 12459,
             "subdomainCount": 222,
+            "ip": [
+                "211.80.243.44"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "wuyiu.edu.cn"
@@ -1010,6 +1690,9 @@
             "requestCount": 152026,
             "clientIpCount": 12976,
             "subdomainCount": 431,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "ahmu.edu.cn"
@@ -1018,6 +1701,9 @@
             "requestCount": 407869,
             "clientIpCount": 13730,
             "subdomainCount": 2119,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "cug.edu.cn"
@@ -1026,6 +1712,9 @@
             "requestCount": 228600,
             "clientIpCount": 14816,
             "subdomainCount": 1483,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "ncu.edu.cn"
@@ -1034,6 +1723,9 @@
             "requestCount": 323294,
             "clientIpCount": 13519,
             "subdomainCount": 750,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "jse.edu.cn"
@@ -1042,6 +1734,13 @@
             "requestCount": 121371,
             "clientIpCount": 17700,
             "subdomainCount": 470,
+            "ip": [
+                "202.204.193.84"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "cup.edu.cn"
@@ -1050,6 +1749,13 @@
             "requestCount": 173344,
             "clientIpCount": 15774,
             "subdomainCount": 880,
+            "ip": [
+                "222.199.255.27"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "buct.edu.cn"
@@ -1058,11 +1764,21 @@
             "requestCount": 324935,
             "clientIpCount": 15584,
             "subdomainCount": 2085,
+            "ip": [
+                "202.112.78.101"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "bjut.edu.cn"
         },
         {
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 1,
             "id": "resource.edu.cn"
@@ -1071,6 +1787,13 @@
             "requestCount": 556468,
             "clientIpCount": 14115,
             "subdomainCount": 2188,
+            "ip": [
+                "114.116.231.34"
+            ],
+            "as": [
+                55990
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "enaea.edu.cn"
@@ -1079,6 +1802,9 @@
             "requestCount": 152940,
             "clientIpCount": 15969,
             "subdomainCount": 827,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "ynu.edu.cn"
@@ -1087,11 +1813,26 @@
             "requestCount": 769406,
             "clientIpCount": 15587,
             "subdomainCount": 1311,
+            "ip": [
+                "183.168.162.4",
+                "183.168.162.3"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "ccnu.edu.cn"
         },
         {
+            "ip": [
+                "202.194.15.5"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 1,
             "id": "sd.edu.cn"
@@ -1100,6 +1841,9 @@
             "requestCount": 196768,
             "clientIpCount": 12483,
             "subdomainCount": 330,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "sdei.edu.cn"
@@ -1108,6 +1852,9 @@
             "requestCount": 262537,
             "clientIpCount": 15323,
             "subdomainCount": 4337,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "swufe.edu.cn"
@@ -1116,6 +1863,13 @@
             "requestCount": 2215942,
             "clientIpCount": 19601,
             "subdomainCount": 1007,
+            "ip": [
+                "202.195.160.7"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "ujs.edu.cn"
@@ -1124,6 +1878,9 @@
             "requestCount": 199058,
             "clientIpCount": 12062,
             "subdomainCount": 372,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "aust.edu.cn"
@@ -1132,6 +1889,9 @@
             "requestCount": 494205,
             "clientIpCount": 13163,
             "subdomainCount": 2265,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "hznu.edu.cn"
@@ -1140,6 +1900,9 @@
             "requestCount": 169762,
             "clientIpCount": 13538,
             "subdomainCount": 996,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "swpu.edu.cn"
@@ -1148,6 +1911,9 @@
             "requestCount": 340195,
             "clientIpCount": 15217,
             "subdomainCount": 2401,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "hzau.edu.cn"
@@ -1156,6 +1922,13 @@
             "requestCount": 145303,
             "clientIpCount": 14868,
             "subdomainCount": 2148,
+            "ip": [
+                "202.206.240.14"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "ysu.edu.cn"
@@ -1164,6 +1937,9 @@
             "requestCount": 61057,
             "clientIpCount": 11439,
             "subdomainCount": 46,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "fynu.edu.cn"
@@ -1172,6 +1948,9 @@
             "requestCount": 40945,
             "clientIpCount": 10919,
             "subdomainCount": 182,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "cua.edu.cn"
@@ -1180,6 +1959,13 @@
             "requestCount": 297925,
             "clientIpCount": 12947,
             "subdomainCount": 1295,
+            "ip": [
+                "115.24.175.50"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "hebut.edu.cn"
@@ -1188,6 +1974,13 @@
             "requestCount": 176311,
             "clientIpCount": 12986,
             "subdomainCount": 660,
+            "ip": [
+                "202.119.248.66"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "njtech.edu.cn"
@@ -1196,6 +1989,9 @@
             "requestCount": 130496,
             "clientIpCount": 10391,
             "subdomainCount": 612,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "hnust.edu.cn"
@@ -1204,6 +2000,9 @@
             "requestCount": 219627,
             "clientIpCount": 13006,
             "subdomainCount": 2546,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "jiangnan.edu.cn"
@@ -1212,6 +2011,13 @@
             "requestCount": 161881,
             "clientIpCount": 14323,
             "subdomainCount": 495,
+            "ip": [
+                "202.196.0.13"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "zzuli.edu.cn"
@@ -1220,6 +2026,9 @@
             "requestCount": 98463,
             "clientIpCount": 11706,
             "subdomainCount": 212,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "hebeea.edu.cn"
@@ -1228,6 +2037,13 @@
             "requestCount": 551101,
             "clientIpCount": 11853,
             "subdomainCount": 280037,
+            "ip": [
+                "58.40.126.6"
+            ],
+            "as": [
+                4812
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "shmtu.edu.cn"
@@ -1236,6 +2052,9 @@
             "requestCount": 64920,
             "clientIpCount": 12852,
             "subdomainCount": 460,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "shzu.edu.cn"
@@ -1244,6 +2063,9 @@
             "requestCount": 179755,
             "clientIpCount": 12838,
             "subdomainCount": 580,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "gzu.edu.cn"
@@ -1252,6 +2074,13 @@
             "requestCount": 178846,
             "clientIpCount": 13487,
             "subdomainCount": 522,
+            "ip": [
+                "210.27.80.3"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "nwsuaf.edu.cn"
@@ -1260,6 +2089,9 @@
             "requestCount": 277152,
             "clientIpCount": 13378,
             "subdomainCount": 2278,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "hnu.edu.cn"
@@ -1268,6 +2100,9 @@
             "requestCount": 193651,
             "clientIpCount": 10546,
             "subdomainCount": 1681,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "ahau.edu.cn"
@@ -1276,6 +2111,9 @@
             "requestCount": 203768,
             "clientIpCount": 11358,
             "subdomainCount": 733,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "shec.edu.cn"
@@ -1284,6 +2122,9 @@
             "requestCount": 67603,
             "clientIpCount": 11741,
             "subdomainCount": 1365,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "gzpyp.edu.cn"
@@ -1292,11 +2133,21 @@
             "requestCount": 71078,
             "clientIpCount": 12352,
             "subdomainCount": 365,
+            "ip": [
+                "127.0.0.1"
+            ],
+            "as": [
+                null
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "cugb.edu.cn"
         },
         {
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 1,
             "id": "service.edu.cn"
@@ -1305,6 +2156,9 @@
             "requestCount": 132366,
             "clientIpCount": 15538,
             "subdomainCount": 230,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "csc.edu.cn"
@@ -1313,6 +2167,9 @@
             "requestCount": 112194,
             "clientIpCount": 12627,
             "subdomainCount": 1609,
+            "ip": [],
+            "as": [],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "nbu.edu.cn"
@@ -1321,6 +2178,13 @@
             "requestCount": 223227,
             "clientIpCount": 14488,
             "subdomainCount": 7747,
+            "ip": [
+                "202.202.96.35"
+            ],
+            "as": [
+                4538
+            ],
+            "register": null,
             "color": "green",
             "indegree": 0,
             "id": "swu.edu.cn"
